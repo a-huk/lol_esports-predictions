@@ -14,9 +14,9 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
 <br>
 
 ****LEC****
-| Team1                 | Team 2                | Blue_side             | Red_side              | T1_blue_win | T1_red_win | Predicted_winner | Date       | Correct |
-| --------------------- | --------------------- | --------------------- | --------------------- | ----------- | ---------- | ---------------- | ---------- | ------- |
-| FC Schalke 04 Esports | Team Vitality         | FC Schalke 04 Esports | Team Vitality         | 0.0001      | 0.0        | Team Vitality    | 30/07/2021 |
+| Team1                 | Team 2                | Blue_side             | Red_side              | T1_blue_win | T1_red_win | Predicted_winner | Date       | Correct            |
+| --------------------- | --------------------- | --------------------- | --------------------- | ----------- | ---------- | ---------------- | ---------- | -------            |
+| FC Schalke 04 Esports | Team Vitality         | FC Schalke 04 Esports | Team Vitality         | 0.0001      | 0.0        | Team Vitality    | 30/07/2021 | :heavy_check_mark: |
 | SK Gaming             | Astralis              | SK Gaming             | Astralis              | 0.8315      | 0.2439     | SK Gaming        | 30/07/2021 |
 | Excel Esports         | Rogue                 | Excel Esports         | Rogue                 | 0.0023      | 0.3163     | Rogue            | 30/07/2021 |
 | MAD Lions             | G2 Esports            | MAD Lions             | G2 Esports            | 0.0532      | 0.0154     | G2 Esports       | 30/07/2021 |
@@ -50,3 +50,4 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
 | T1           | Fredit BRION      | T1           | Fredit BRION      | 0.288       | 0.7327     | Fredit BRION      | 31/07/2021 |
 | DRX          | Afreeca Freecs    | DRX          | Afreeca Freecs    | 0.0         | 0.0        | Afreeca Freecs    | 31/07/2021 |
 |              |
+<br>
