@@ -13,6 +13,8 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
  - Feel free to contact me at huk.adam@protonmail.com
 <br>
 
+
+
 ****LEC****
 | Team1                 | Team 2                | Blue_side             | Red_side              | T1_blue_win | T1_red_win | Predicted_winner | Date       | Correct            |
 | --------------------- | --------------------- | --------------------- | --------------------- | ----------- | ---------- | ---------------- | ---------- | ------------------ |
@@ -29,6 +31,8 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
 <br>
 Correct ratio: 5/5 = 100%
 <br>
+<br>
+
 
 ****LCS****
 | Team1                | Team 2           | Blue_side            | Red_side         | T1_blue_win | T1_red_win | Predicted_winner | Date       | Correct            |
@@ -41,10 +45,10 @@ Correct ratio: 5/5 = 100%
 | 100 Thieves          | Golden Guardians | 100 Thieves          | Golden Guardians | 0.9481      | 0.0089     | 100 Thieves      | 31/07/2021 |
 | Team Liquid          | Evil Geniuses    | Team Liquid          | Evil Geniuses    | 1.0         | 0.0        | Team Liquid      | 31/07/2021 |
 | Cloud9               | Dignitas         | Cloud9               | Dignitas         | 0.9933      | 0.2375     | Cloud9           | 31/07/2021 |
-|                      |
 
 <br>
 Correct ratio: 3/5 = 60%
+<br>
 <br>
 
 ****LCK****
@@ -54,7 +58,6 @@ Correct ratio: 3/5 = 60%
 | KT Rolster   | Gen.G             | KT Rolster   | Gen.G             | 0.2009      | 0.1768     | Gen.G             | 30/07/2021 | :heavy_check_mark: |
 | T1           | Fredit BRION      | T1           | Fredit BRION      | 0.288       | 0.7327     | Fredit BRION      | 31/07/2021 | :x:                |
 | DRX          | Afreeca Freecs    | DRX          | Afreeca Freecs    | 0.0         | 0.0        | Afreeca Freecs    | 31/07/2021 |
-|              |
 <br>
 Correct ratio: 1/3 = 33%
 <br>
