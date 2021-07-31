@@ -9,3 +9,17 @@
 | Misfits Gaming        | Fnatic            | Misfits Gaming        | Fnatic            | 0.8539      | 0.9795     | Misfits Gaming    | 30/07/2021 |
 | Liiv SANDBOX          | Nongshim RedForce | Liiv SANDBOX          | Nongshim RedForce | 0.2632      | 0.4435     | Nongshim RedForce | 30/07/2021 |
 | KT Rolster            | Gen.G             | KT Rolster            | Gen.G             | 0.2009      | 0.1768     | Gen.G             | 30/07/2021 |
+| FlyQuest             | Golden Guardians      | FlyQuest             | Golden Guardians      | 0.0         | 0.0606     | Golden Guardians | 31/07/2021 |
+| Immortals            | Team Liquid           | Immortals            | Team Liquid           | 0.9658      | 0.0108     | Immortals        | 31/07/2021 |
+| Counter Logic Gaming | Dignitas              | Counter Logic Gaming | Dignitas              | 0.0         | 0.0003     | Dignitas         | 31/07/2021 |
+| 100 Thieves          | Golden Guardians      | 100 Thieves          | Golden Guardians      | 0.9481      | 0.0089     | 100 Thieves      | 31/07/2021 |
+| Team Liquid          | Evil Geniuses         | Team Liquid          | Evil Geniuses         | 1.0         | 0.0        | Team Liquid      | 31/07/2021 |
+| Cloud9               | Dignitas              | Cloud9               | Dignitas              | 0.9933      | 0.2375     | Cloud9           | 31/07/2021 |
+| Misfits Gaming       | SK Gaming             | Misfits Gaming       | SK Gaming             | 0.6934      | 0.9855     | Misfits Gaming   | 31/07/2021 |
+| Astralis             | Excel Esports         | Astralis             | Excel Esports         | 0.6372      | 0.4653     | Astralis         | 31/07/2021 |
+| Rogue                | Team Vitality         | Rogue                | Team Vitality         | 1.0         | 0.0001     | Rogue            | 31/07/2021 |
+| G2 Esports           | FC Schalke 04 Esports | G2 Esports           | FC Schalke 04 Esports | 0.9813      | 1.0        | G2 Esports       | 31/07/2021 |
+| Fnatic               | MAD Lions             | Fnatic               | MAD Lions             | 0.8681      | 0.0436     | Fnatic           | 31/07/2021 |
+| T1                   | Fredit BRION          | T1                   | Fredit BRION          | 0.288       | 0.7327     | Fredit BRION     | 31/07/2021 |
+| DRX                  | Afreeca Freecs        | DRX                  | Afreeca Freecs        | 0.0         | 0.0        | Afreeca Freecs   | 31/07/2021 |
+|                      |
