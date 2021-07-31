@@ -1,3 +1,17 @@
+****What is this?****
+This is a side-project of mine to attempt to predict professional League of Legends games.
+****How is it done?****
+Currently, I am using a classification AI to determine the winner. I will publish the code for it once I feel it is ready to see the light of day. There is sadly no official, free and reliable API available for LoLEsports. Luckily, Oracle's Elixir makes much of this data available in a very organised form. Thanks for that.
+****Why these leagues?****
+I am mainly a fan of LCS and decided to preddict results on the four major regions: LEC, LPL, LCK and LEC. Sadly, there is missing data for the LPL Summer Spit of 2021, thus LPL predictions have been left out.
+****Notes****
+ - These are only predictions, therefore they might not come true. 
+ - The project assumes that past performance can predict future performance, thus "upsets" will most likely never be predicted.
+ - I try to run the script once a day, thus some predictions might be too late. 
+ - This mainly serves as a repository for me to evaluate the long-term correctness of this approach.
+ - Currently, I use a weighted average of a team's previous weeks results; the newer, the more weight a performance is given.
+ - Feel free to contact me at huk.adam@protonmail.com
+
 | Team1                 | Team 2            | Blue_side             | Red_side          | T1_blue_win | T1_red_win | Predicted_winner  | Date       | Correct |
 | --------------------- | ----------------- | --------------------- | ----------------- | ----------- | ---------- | ----------------- | ---------- | ------- |
 | 100 Thieves           | TSM               | 100 Thieves           | TSM               | 0.0739      | 0.2163     | TSM               | 30/07/2021 |
