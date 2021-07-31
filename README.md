@@ -1,10 +1,10 @@
-****What is this?****
+****What is this?****<br>
 This is a side-project of mine to attempt to predict professional League of Legends games.<br>
-****How is it done?****
+<br>****How is it done?****<br>
 Currently, I am using a classification AI to determine the winner. I will publish the code for it once I feel it is ready to see the light of day. There is sadly no official, free and reliable API available for LoLEsports. Luckily, Oracle's Elixir makes much of this data available in a very organised form. Thanks for that.<br>
-****Why these leagues?****
+<br>****Why these leagues?****<br>
 I am mainly a fan of LCS and decided to preddict results on the four major regions: LEC, LPL, LCK and LEC. Sadly, there is missing data for the LPL Summer Spit of 2021, thus LPL predictions have been left out.<br>
-****Notes****
+<br>****Notes****
  - These are only predictions, therefore they might not come true. 
  - The project assumes that past performance can predict future performance, thus "upsets" will most likely never be predicted.
  - I try to run the script once a day, thus some predictions might be too late. 
