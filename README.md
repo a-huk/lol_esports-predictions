@@ -12,6 +12,7 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
  - Currently, I use a weighted average of a team's previous weeks results; the newer, the more weight a performance is given.
  - Feel free to contact me at huk.adam@protonmail.com
 <br>
+
 ****LEC****
 | Team1                 | Team 2                | Blue_side             | Red_side              | T1_blue_win | T1_red_win | Predicted_winner | Date       | Correct |
 | --------------------- | --------------------- | --------------------- | --------------------- | ----------- | ---------- | ---------------- | ---------- | ------- |
@@ -39,6 +40,7 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
 | Team Liquid          | Evil Geniuses    | Team Liquid          | Evil Geniuses    | 1.0         | 0.0        | Team Liquid      | 31/07/2021 |
 | Cloud9               | Dignitas         | Cloud9               | Dignitas         | 0.9933      | 0.2375     | Cloud9           | 31/07/2021 |
 |                      |
+
 <br>
 ****LCK****
 | Team1        | Team 2            | Blue_side    | Red_side          | T1_blue_win | T1_red_win | Predicted_winner  | Date       | Correct |
