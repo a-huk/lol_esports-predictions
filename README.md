@@ -15,7 +15,7 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
 
 
 
-****LEC****
+****LEC:**** Correct ratio: 7/10 = 70%
 | Team1                 | Team 2                | Blue_side             | Red_side              | T1_blue_win | T1_red_win | Predicted_winner      | Date       | Correct            |
 | --------------------- | --------------------- | --------------------- | --------------------- | ----------- | ---------- | --------------------- | ---------- | ------------------ |
 | FC Schalke 04 Esports | Team Vitality         | FC Schalke 04 Esports | Team Vitality         | 0.0001      | 0.0        | Team Vitality         | 30/07/2021 | :heavy_check_mark: |
@@ -34,12 +34,11 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
 | Misfits Gaming        | MAD Lions             | Misfits Gaming        | MAD Lions             | 0.4266      | 0.98       | MAD Lions             | 01/08/2021 |
 | G2 Esports            | Excel Esports         | G2 Esports            | Excel Esports         | 0.973       | 0.3713     | G2 Esports            | 01/08/2021 |
 <br>
-Correct ratio: 7/10 = 70%
 <br>
 <br>
 
 
-****LCS****
+****LCS:**** Correct ratio: 7/10 = 70%
 | Team1                | Team 2           | Blue_side            | Red_side         | T1_blue_win | T1_red_win | Predicted_winner | Date       | Correct            |
 | -------------------- | ---------------- | -------------------- | ---------------- | ----------- | ---------- | ---------------- | ---------- | ------------------ |
 | 100 Thieves          | TSM              | 100 Thieves          | TSM              | 0.0739      | 0.2163     | TSM              | 30/07/2021 | :heavy_check_mark: |
@@ -58,11 +57,10 @@ Correct ratio: 7/10 = 70%
 | 100 Thieves          | Evil Geniuses    | 100 Thieves          | Evil Geniuses    | 0.9217      | 0.006      | 100 Thieves      | 01/08/2021 |
 
 <br>
-Correct ratio: 7/10 = 70%
 <br>
 <br>
 
-****LCK****
+****LCK:**** Correct ratio: 1/4 = 25%
 | Team1             | Team 2              | Blue_side         | Red_side            | T1_blue_win | T1_red_win | Predicted_winner  | Date       | Correct            |
 | ----------------- | ------------------- | ----------------- | ------------------- | ----------- | ---------- | ----------------- | ---------- | ------------------ |
 | Liiv SANDBOX      | Nongshim RedForce   | Liiv SANDBOX      | Nongshim RedForce   | 0.2632      | 0.4435     | Nongshim RedForce | 30/07/2021 | :x:                |
@@ -73,5 +71,4 @@ Correct ratio: 7/10 = 70%
 | KT Rolster        | DWG KIA             | KT Rolster        | DWG KIA             | 0.0337      | 0.0072     | DWG KIA           | 01/08/2021 |
 |                   |
 <br>
-Correct ratio: 1/4 = 25%
 <br>
