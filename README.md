@@ -60,14 +60,14 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
 <br>
 <br>
 
-****LCK:**** Correct ratio: 1/4 = 25%
+****LCK:**** Correct ratio: 2/5 = 40%
 | Team1             | Team 2              | Blue_side         | Red_side            | T1_blue_win | T1_red_win | Predicted_winner  | Date       | Correct            |
 | ----------------- | ------------------- | ----------------- | ------------------- | ----------- | ---------- | ----------------- | ---------- | ------------------ |
 | Liiv SANDBOX      | Nongshim RedForce   | Liiv SANDBOX      | Nongshim RedForce   | 0.2632      | 0.4435     | Nongshim RedForce | 30/07/2021 | :x:                |
 | KT Rolster        | Gen.G               | KT Rolster        | Gen.G               | 0.2009      | 0.1768     | Gen.G             | 30/07/2021 | :heavy_check_mark: |
 | T1                | Fredit BRION        | T1                | Fredit BRION        | 0.288       | 0.7327     | Fredit BRION      | 31/07/2021 | :x:                |
 | DRX               | Afreeca Freecs      | DRX               | Afreeca Freecs      | 0.0         | 0.0        | Afreeca Freecs    | 31/07/2021 | :x:                |
-| Nongshim RedForce | Hanwha Life Esports | Nongshim RedForce | Hanwha Life Esports | 0.9838      | 0.3925     | Nongshim RedForce | 01/08/2021 |
+| Nongshim RedForce | Hanwha Life Esports | Nongshim RedForce | Hanwha Life Esports | 0.9838      | 0.3925     | Nongshim RedForce | 01/08/2021 | :heavy_check_mark: |
 | KT Rolster        | DWG KIA             | KT Rolster        | DWG KIA             | 0.0337      | 0.0072     | DWG KIA           | 01/08/2021 |
 |                   |
 <br>
