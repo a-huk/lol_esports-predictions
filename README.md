@@ -16,20 +16,25 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
 
 
 ****LEC****
-| Team1                 | Team 2                | Blue_side             | Red_side              | T1_blue_win | T1_red_win | Predicted_winner | Date       | Correct            |
-| --------------------- | --------------------- | --------------------- | --------------------- | ----------- | ---------- | ---------------- | ---------- | ------------------ |
-| FC Schalke 04 Esports | Team Vitality         | FC Schalke 04 Esports | Team Vitality         | 0.0001      | 0.0        | Team Vitality    | 30/07/2021 | :heavy_check_mark: |
-| SK Gaming             | Astralis              | SK Gaming             | Astralis              | 0.8315      | 0.2439     | SK Gaming        | 30/07/2021 | :heavy_check_mark: |
-| Excel Esports         | Rogue                 | Excel Esports         | Rogue                 | 0.0023      | 0.3163     | Rogue            | 30/07/2021 | :heavy_check_mark: |
-| MAD Lions             | G2 Esports            | MAD Lions             | G2 Esports            | 0.0532      | 0.0154     | G2 Esports       | 30/07/2021 | :heavy_check_mark: |
-| Misfits Gaming        | Fnatic                | Misfits Gaming        | Fnatic                | 0.8539      | 0.9795     | Misfits Gaming   | 30/07/2021 | :heavy_check_mark: |
-| Misfits Gaming        | SK Gaming             | Misfits Gaming        | SK Gaming             | 0.6934      | 0.9855     | Misfits Gaming   | 31/07/2021 |
-| Astralis              | Excel Esports         | Astralis              | Excel Esports         | 0.6372      | 0.4653     | Astralis         | 31/07/2021 |
-| Rogue                 | Team Vitality         | Rogue                 | Team Vitality         | 1.0         | 0.0001     | Rogue            | 31/07/2021 |
-| G2 Esports            | FC Schalke 04 Esports | G2 Esports            | FC Schalke 04 Esports | 0.9813      | 1.0        | G2 Esports       | 31/07/2021 |
-| Fnatic                | MAD Lions             | Fnatic                | MAD Lions             | 0.8681      | 0.0436     | Fnatic           | 31/07/2021 |
+| Team1                 | Team 2                | Blue_side             | Red_side              | T1_blue_win | T1_red_win | Predicted_winner      | Date       | Correct            |
+| --------------------- | --------------------- | --------------------- | --------------------- | ----------- | ---------- | --------------------- | ---------- | ------------------ |
+| FC Schalke 04 Esports | Team Vitality         | FC Schalke 04 Esports | Team Vitality         | 0.0001      | 0.0        | Team Vitality         | 30/07/2021 | :heavy_check_mark: |
+| SK Gaming             | Astralis              | SK Gaming             | Astralis              | 0.8315      | 0.2439     | SK Gaming             | 30/07/2021 | :heavy_check_mark: |
+| Excel Esports         | Rogue                 | Excel Esports         | Rogue                 | 0.0023      | 0.3163     | Rogue                 | 30/07/2021 | :heavy_check_mark: |
+| MAD Lions             | G2 Esports            | MAD Lions             | G2 Esports            | 0.0532      | 0.0154     | G2 Esports            | 30/07/2021 | :heavy_check_mark: |
+| Misfits Gaming        | Fnatic                | Misfits Gaming        | Fnatic                | 0.8539      | 0.9795     | Misfits Gaming        | 30/07/2021 | :heavy_check_mark: |
+| Misfits Gaming        | SK Gaming             | Misfits Gaming        | SK Gaming             | 0.6934      | 0.9855     | Misfits Gaming        | 31/07/2021 | :heavy_check_mark: |
+| Astralis              | Excel Esports         | Astralis              | Excel Esports         | 0.6372      | 0.4653     | Astralis              | 31/07/2021 | :x:                |
+| Rogue                 | Team Vitality         | Rogue                 | Team Vitality         | 1.0         | 0.0001     | Rogue                 | 31/07/2021 | :x:                |
+| G2 Esports            | FC Schalke 04 Esports | G2 Esports            | FC Schalke 04 Esports | 0.9813      | 1.0        | G2 Esports            | 31/07/2021 | :heavy_check_mark: |
+| Fnatic                | MAD Lions             | Fnatic                | MAD Lions             | 0.8681      | 0.0436     | Fnatic                | 31/07/2021 | :x:                |
+| Rogue                 | SK Gaming             | Rogue                 | SK Gaming             | 0.9998      | 0.4951     | Rogue                 | 01/08/2021 |
+| Team Vitality         | Astralis              | Team Vitality         | Astralis              | 0.5743      | 0.9675     | Team Vitality         | 01/08/2021 |
+| FC Schalke 04 Esports | Fnatic                | FC Schalke 04 Esports | Fnatic                | 0.8672      | 0.5121     | FC Schalke 04 Esports | 01/08/2021 |
+| Misfits Gaming        | MAD Lions             | Misfits Gaming        | MAD Lions             | 0.4266      | 0.98       | MAD Lions             | 01/08/2021 |
+| G2 Esports            | Excel Esports         | G2 Esports            | Excel Esports         | 0.973       | 0.3713     | G2 Esports            | 01/08/2021 |
 <br>
-Correct ratio: 5/5 = 100%
+Correct ratio: 7/10 = 70%
 <br>
 <br>
 
@@ -42,22 +47,31 @@ Correct ratio: 5/5 = 100%
 | FlyQuest             | Golden Guardians | FlyQuest             | Golden Guardians | 0.0         | 0.0606     | Golden Guardians | 31/07/2021 | :heavy_check_mark: |
 | Immortals            | Team Liquid      | Immortals            | Team Liquid      | 0.9658      | 0.0108     | Immortals        | 31/07/2021 | :x:                |
 | Counter Logic Gaming | Dignitas         | Counter Logic Gaming | Dignitas         | 0.0         | 0.0003     | Dignitas         | 31/07/2021 | :heavy_check_mark: |
-| 100 Thieves          | Golden Guardians | 100 Thieves          | Golden Guardians | 0.9481      | 0.0089     | 100 Thieves      | 31/07/2021 |
-| Team Liquid          | Evil Geniuses    | Team Liquid          | Evil Geniuses    | 1.0         | 0.0        | Team Liquid      | 31/07/2021 |
-| Cloud9               | Dignitas         | Cloud9               | Dignitas         | 0.9933      | 0.2375     | Cloud9           | 31/07/2021 |
+| 100 Thieves          | Golden Guardians | 100 Thieves          | Golden Guardians | 0.9481      | 0.0089     | 100 Thieves      | 31/07/2021 | :heavy_check_mark: |
+| Team Liquid          | Evil Geniuses    | Team Liquid          | Evil Geniuses    | 1.0         | 0.0        | Team Liquid      | 31/07/2021 | :heavy_check_mark: |
+| Cloud9               | Dignitas         | Cloud9               | Dignitas         | 0.9933      | 0.2375     | Cloud9           | 31/07/2021 | :heavy_check_mark: |
+| FlyQuest             | Immortals        | FlyQuest             | Immortals        | 0.0001      | 0.7125     | Immortals        | 01/08/2021 | :x:                |
+| Counter Logic Gaming | TSM              | Counter Logic Gaming | TSM              | 0.0         | 0.0        | TSM              | 01/08/2021 | :heavy_check_mark: |
+| Dignitas             | TSM              | Dignitas             | TSM              | 0.1621      | 0.0264     | TSM              | 01/08/2021 |
+| Immortals            | Golden Guardians | Immortals            | Golden Guardians | 0.7571      | 0.9967     | Immortals        | 01/08/2021 |
+| Team Liquid          | Cloud9           | Team Liquid          | Cloud9           | 0.6775      | 0.0001     | Team Liquid      | 01/08/2021 |
+| 100 Thieves          | Evil Geniuses    | 100 Thieves          | Evil Geniuses    | 0.9217      | 0.006      | 100 Thieves      | 01/08/2021 |
 
 <br>
-Correct ratio: 3/5 = 60%
+Correct ratio: 7/10 = 70%
 <br>
 <br>
 
 ****LCK****
-| Team1        | Team 2            | Blue_side    | Red_side          | T1_blue_win | T1_red_win | Predicted_winner  | Date       | Correct            |
-| ------------ | ----------------- | ------------ | ----------------- | ----------- | ---------- | ----------------- | ---------- | ------------------ |
-| Liiv SANDBOX | Nongshim RedForce | Liiv SANDBOX | Nongshim RedForce | 0.2632      | 0.4435     | Nongshim RedForce | 30/07/2021 | :x:                |
-| KT Rolster   | Gen.G             | KT Rolster   | Gen.G             | 0.2009      | 0.1768     | Gen.G             | 30/07/2021 | :heavy_check_mark: |
-| T1           | Fredit BRION      | T1           | Fredit BRION      | 0.288       | 0.7327     | Fredit BRION      | 31/07/2021 | :x:                |
-| DRX          | Afreeca Freecs    | DRX          | Afreeca Freecs    | 0.0         | 0.0        | Afreeca Freecs    | 31/07/2021 |
+| Team1             | Team 2              | Blue_side         | Red_side            | T1_blue_win | T1_red_win | Predicted_winner  | Date       | Correct            |
+| ----------------- | ------------------- | ----------------- | ------------------- | ----------- | ---------- | ----------------- | ---------- | ------------------ |
+| Liiv SANDBOX      | Nongshim RedForce   | Liiv SANDBOX      | Nongshim RedForce   | 0.2632      | 0.4435     | Nongshim RedForce | 30/07/2021 | :x:                |
+| KT Rolster        | Gen.G               | KT Rolster        | Gen.G               | 0.2009      | 0.1768     | Gen.G             | 30/07/2021 | :heavy_check_mark: |
+| T1                | Fredit BRION        | T1                | Fredit BRION        | 0.288       | 0.7327     | Fredit BRION      | 31/07/2021 | :x:                |
+| DRX               | Afreeca Freecs      | DRX               | Afreeca Freecs      | 0.0         | 0.0        | Afreeca Freecs    | 31/07/2021 | :x:                |
+| Nongshim RedForce | Hanwha Life Esports | Nongshim RedForce | Hanwha Life Esports | 0.9838      | 0.3925     | Nongshim RedForce | 01/08/2021 |
+| KT Rolster        | DWG KIA             | KT Rolster        | DWG KIA             | 0.0337      | 0.0072     | DWG KIA           | 01/08/2021 |
+|                   |
 <br>
-Correct ratio: 1/3 = 33%
+Correct ratio: 1/4 = 25%
 <br>
