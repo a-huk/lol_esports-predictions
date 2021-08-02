@@ -15,7 +15,7 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
 
 
 
-****LEC:**** Correct ratio: 7/10 = 70%
+****LEC:**** Correct ratio: 11/15 = 73%
 | Team1                 | Team 2                | Blue_side             | Red_side              | T1_blue_win | T1_red_win | Predicted_winner      | Date       | Correct            |
 | --------------------- | --------------------- | --------------------- | --------------------- | ----------- | ---------- | --------------------- | ---------- | ------------------ |
 | FC Schalke 04 Esports | Team Vitality         | FC Schalke 04 Esports | Team Vitality         | 0.0001      | 0.0        | Team Vitality         | 30/07/2021 | :heavy_check_mark: |
@@ -38,7 +38,7 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
 <br>
 
 
-****LCS:**** Correct ratio: 7/10 = 70%
+****LCS:**** Correct ratio: 8/15 = 53%
 | Team1                | Team 2           | Blue_side            | Red_side         | T1_blue_win | T1_red_win | Predicted_winner     | Date       | Correct            |
 | -------------------- | ---------------- | -------------------- | ---------------- | ----------- | ---------- | ----------------     | ---------- | ------------------ |
 | 100 Thieves          | TSM              | 100 Thieves          | TSM              | 0.0739      | 0.2163     | TSM                  | 30/07/2021 | :heavy_check_mark: |
@@ -54,7 +54,7 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
 | Dignitas             | TSM              | Dignitas             | TSM              | 0.1621      | 0.0264     | TSM                  | 01/08/2021 | :x:                |
 | Immortals            | Golden Guardians | Immortals            | Golden Guardians | 0.7571      | 0.9967     | Immortals            | 01/08/2021 | :x:                |
 | Team Liquid          | Cloud9           | Team Liquid          | Cloud9           | 0.6775      | 0.0001     | Team Liquid          | 01/08/2021 | :x:                |
-| 100 Thieves          | Evil Geniuses    | 100 Thieves          | Evil Geniuses    | 0.9217      | 0.006      | 100 Thieves          | 01/08/2021 | :x:                |
+| 100 Thieves          | Evil Geniuses    | 100 Thieves          | Evil Geniuses    | 0.9217      | 0.006      | 100 Thieves          | 01/08/2021 | :x:                | Predicted using main team data when the academy team was subbed in
 | Counter Logic Gaming | FlyQuest         | Counter Logic Gaming | FlyQuest         | 0.99        | 0.8959     | Counter Logic Gaming | 02/08/2021 | :heavy_check_mark: |
 |                      |
 
@@ -62,7 +62,7 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
 <br>
 <br>
 
-****LCK:**** Correct ratio: 2/5 = 40%
+****LCK:**** Correct ratio: 3/6 = 50%
 | Team1             | Team 2              | Blue_side         | Red_side            | T1_blue_win | T1_red_win | Predicted_winner  | Date       | Correct            |
 | ----------------- | ------------------- | ----------------- | ------------------- | ----------- | ---------- | ----------------- | ---------- | ------------------ |
 | Liiv SANDBOX      | Nongshim RedForce   | Liiv SANDBOX      | Nongshim RedForce   | 0.2632      | 0.4435     | Nongshim RedForce | 30/07/2021 | :x:                |
