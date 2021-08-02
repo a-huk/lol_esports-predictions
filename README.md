@@ -28,33 +28,35 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
 | Rogue                 | Team Vitality         | Rogue                 | Team Vitality         | 1.0         | 0.0001     | Rogue                 | 31/07/2021 | :x:                |
 | G2 Esports            | FC Schalke 04 Esports | G2 Esports            | FC Schalke 04 Esports | 0.9813      | 1.0        | G2 Esports            | 31/07/2021 | :heavy_check_mark: |
 | Fnatic                | MAD Lions             | Fnatic                | MAD Lions             | 0.8681      | 0.0436     | Fnatic                | 31/07/2021 | :x:                |
-| Rogue                 | SK Gaming             | Rogue                 | SK Gaming             | 0.9998      | 0.4951     | Rogue                 | 01/08/2021 |
-| Team Vitality         | Astralis              | Team Vitality         | Astralis              | 0.5743      | 0.9675     | Team Vitality         | 01/08/2021 |
-| FC Schalke 04 Esports | Fnatic                | FC Schalke 04 Esports | Fnatic                | 0.8672      | 0.5121     | FC Schalke 04 Esports | 01/08/2021 |
-| Misfits Gaming        | MAD Lions             | Misfits Gaming        | MAD Lions             | 0.4266      | 0.98       | MAD Lions             | 01/08/2021 |
-| G2 Esports            | Excel Esports         | G2 Esports            | Excel Esports         | 0.973       | 0.3713     | G2 Esports            | 01/08/2021 |
+| Rogue                 | SK Gaming             | Rogue                 | SK Gaming             | 0.9998      | 0.4951     | Rogue                 | 01/08/2021 | :heavy_check_mark: |
+| Team Vitality         | Astralis              | Team Vitality         | Astralis              | 0.5743      | 0.9675     | Team Vitality         | 01/08/2021 | :heavy_check_mark: |
+| FC Schalke 04 Esports | Fnatic                | FC Schalke 04 Esports | Fnatic                | 0.8672      | 0.5121     | FC Schalke 04 Esports | 01/08/2021 | :x:                |
+| Misfits Gaming        | MAD Lions             | Misfits Gaming        | MAD Lions             | 0.4266      | 0.98       | MAD Lions             | 01/08/2021 | :heavy_check_mark: |
+| G2 Esports            | Excel Esports         | G2 Esports            | Excel Esports         | 0.973       | 0.3713     | G2 Esports            | 01/08/2021 | :heavy_check_mark: |
 <br>
 <br>
 <br>
 
 
 ****LCS:**** Correct ratio: 7/10 = 70%
-| Team1                | Team 2           | Blue_side            | Red_side         | T1_blue_win | T1_red_win | Predicted_winner | Date       | Correct            |
-| -------------------- | ---------------- | -------------------- | ---------------- | ----------- | ---------- | ---------------- | ---------- | ------------------ |
-| 100 Thieves          | TSM              | 100 Thieves          | TSM              | 0.0739      | 0.2163     | TSM              | 30/07/2021 | :heavy_check_mark: |
-| Evil Geniuses        | Cloud9           | Evil Geniuses        | Cloud9           | 0.0319      | 0.366      | Cloud9           | 30/07/2021 | :x:                |
-| FlyQuest             | Golden Guardians | FlyQuest             | Golden Guardians | 0.0         | 0.0606     | Golden Guardians | 31/07/2021 | :heavy_check_mark: |
-| Immortals            | Team Liquid      | Immortals            | Team Liquid      | 0.9658      | 0.0108     | Immortals        | 31/07/2021 | :x:                |
-| Counter Logic Gaming | Dignitas         | Counter Logic Gaming | Dignitas         | 0.0         | 0.0003     | Dignitas         | 31/07/2021 | :heavy_check_mark: |
-| 100 Thieves          | Golden Guardians | 100 Thieves          | Golden Guardians | 0.9481      | 0.0089     | 100 Thieves      | 31/07/2021 | :heavy_check_mark: |
-| Team Liquid          | Evil Geniuses    | Team Liquid          | Evil Geniuses    | 1.0         | 0.0        | Team Liquid      | 31/07/2021 | :heavy_check_mark: |
-| Cloud9               | Dignitas         | Cloud9               | Dignitas         | 0.9933      | 0.2375     | Cloud9           | 31/07/2021 | :heavy_check_mark: |
-| FlyQuest             | Immortals        | FlyQuest             | Immortals        | 0.0001      | 0.7125     | Immortals        | 01/08/2021 | :x:                |
-| Counter Logic Gaming | TSM              | Counter Logic Gaming | TSM              | 0.0         | 0.0        | TSM              | 01/08/2021 | :heavy_check_mark: |
-| Dignitas             | TSM              | Dignitas             | TSM              | 0.1621      | 0.0264     | TSM              | 01/08/2021 |
-| Immortals            | Golden Guardians | Immortals            | Golden Guardians | 0.7571      | 0.9967     | Immortals        | 01/08/2021 |
-| Team Liquid          | Cloud9           | Team Liquid          | Cloud9           | 0.6775      | 0.0001     | Team Liquid      | 01/08/2021 |
-| 100 Thieves          | Evil Geniuses    | 100 Thieves          | Evil Geniuses    | 0.9217      | 0.006      | 100 Thieves      | 01/08/2021 |
+| Team1                | Team 2           | Blue_side            | Red_side         | T1_blue_win | T1_red_win | Predicted_winner     | Date       | Correct            |
+| -------------------- | ---------------- | -------------------- | ---------------- | ----------- | ---------- | ----------------     | ---------- | ------------------ |
+| 100 Thieves          | TSM              | 100 Thieves          | TSM              | 0.0739      | 0.2163     | TSM                  | 30/07/2021 | :heavy_check_mark: |
+| Evil Geniuses        | Cloud9           | Evil Geniuses        | Cloud9           | 0.0319      | 0.366      | Cloud9               | 30/07/2021 | :x:                |
+| FlyQuest             | Golden Guardians | FlyQuest             | Golden Guardians | 0.0         | 0.0606     | Golden Guardians     | 31/07/2021 | :heavy_check_mark: |
+| Immortals            | Team Liquid      | Immortals            | Team Liquid      | 0.9658      | 0.0108     | Immortals            | 31/07/2021 | :x:                |
+| Counter Logic Gaming | Dignitas         | Counter Logic Gaming | Dignitas         | 0.0         | 0.0003     | Dignitas             | 31/07/2021 | :heavy_check_mark: |
+| 100 Thieves          | Golden Guardians | 100 Thieves          | Golden Guardians | 0.9481      | 0.0089     | 100 Thieves          | 31/07/2021 | :heavy_check_mark: |
+| Team Liquid          | Evil Geniuses    | Team Liquid          | Evil Geniuses    | 1.0         | 0.0        | Team Liquid          | 31/07/2021 | :heavy_check_mark: |
+| Cloud9               | Dignitas         | Cloud9               | Dignitas         | 0.9933      | 0.2375     | Cloud9               | 31/07/2021 | :heavy_check_mark: |
+| FlyQuest             | Immortals        | FlyQuest             | Immortals        | 0.0001      | 0.7125     | Immortals            | 01/08/2021 | :x:                |
+| Counter Logic Gaming | TSM              | Counter Logic Gaming | TSM              | 0.0         | 0.0        | TSM                  | 01/08/2021 | :heavy_check_mark: |
+| Dignitas             | TSM              | Dignitas             | TSM              | 0.1621      | 0.0264     | TSM                  | 01/08/2021 | :x:                |
+| Immortals            | Golden Guardians | Immortals            | Golden Guardians | 0.7571      | 0.9967     | Immortals            | 01/08/2021 | :x:                |
+| Team Liquid          | Cloud9           | Team Liquid          | Cloud9           | 0.6775      | 0.0001     | Team Liquid          | 01/08/2021 | :x:                |
+| 100 Thieves          | Evil Geniuses    | 100 Thieves          | Evil Geniuses    | 0.9217      | 0.006      | 100 Thieves          | 01/08/2021 | :x:                |
+| Counter Logic Gaming | FlyQuest         | Counter Logic Gaming | FlyQuest         | 0.99        | 0.8959     | Counter Logic Gaming | 02/08/2021 | :heavy_check_mark: |
+|                      |
 
 <br>
 <br>
@@ -68,7 +70,7 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
 | T1                | Fredit BRION        | T1                | Fredit BRION        | 0.288       | 0.7327     | Fredit BRION      | 31/07/2021 | :x:                |
 | DRX               | Afreeca Freecs      | DRX               | Afreeca Freecs      | 0.0         | 0.0        | Afreeca Freecs    | 31/07/2021 | :x:                |
 | Nongshim RedForce | Hanwha Life Esports | Nongshim RedForce | Hanwha Life Esports | 0.9838      | 0.3925     | Nongshim RedForce | 01/08/2021 | :heavy_check_mark: |
-| KT Rolster        | DWG KIA             | KT Rolster        | DWG KIA             | 0.0337      | 0.0072     | DWG KIA           | 01/08/2021 |
+| KT Rolster        | DWG KIA             | KT Rolster        | DWG KIA             | 0.0337      | 0.0072     | DWG KIA           | 01/08/2021 | :heavy_check_mark: |
 |                   |
 <br>
 <br>
