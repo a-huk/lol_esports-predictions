@@ -11,6 +11,7 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
  - This mainly serves as a repository for me to evaluate the long-term correctness of this approach.
  - Currently, I use a weighted average of a team's previous weeks results; the newer, the more weight a performance is given.
  - Feel free to contact me at huk.adam@protonmail.com
+ - :warning: means that the academy roster was played, while the main roster's stats were used.
 <br>
 
 
@@ -54,7 +55,7 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
 | Dignitas             | TSM              | Dignitas             | TSM              | 0.1621      | 0.0264     | TSM                  | 01/08/2021 | :x:                |
 | Immortals            | Golden Guardians | Immortals            | Golden Guardians | 0.7571      | 0.9967     | Immortals            | 01/08/2021 | :x:                |
 | Team Liquid          | Cloud9           | Team Liquid          | Cloud9           | 0.6775      | 0.0001     | Team Liquid          | 01/08/2021 | :x:                |
-| 100 Thieves          | Evil Geniuses    | 100 Thieves          | Evil Geniuses    | 0.9217      | 0.006      | 100 Thieves          | 01/08/2021 | :x:                | Predicted using main team data when the academy team was subbed in
+| 100 Thieves          | Evil Geniuses    | 100 Thieves          | Evil Geniuses    | 0.9217      | 0.006      | 100 Thieves          | 01/08/2021 | :x: :warning:      |
 | Counter Logic Gaming | FlyQuest         | Counter Logic Gaming | FlyQuest         | 0.99        | 0.8959     | Counter Logic Gaming | 02/08/2021 | :heavy_check_mark: |
 |                      |
 
