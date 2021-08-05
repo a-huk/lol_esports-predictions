@@ -72,6 +72,8 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
 | DRX               | Afreeca Freecs      | DRX               | Afreeca Freecs      | 0.0         | 0.0        | Afreeca Freecs    | 31/07/2021 | :x:                |
 | Nongshim RedForce | Hanwha Life Esports | Nongshim RedForce | Hanwha Life Esports | 0.9838      | 0.3925     | Nongshim RedForce | 01/08/2021 | :heavy_check_mark: |
 | KT Rolster        | DWG KIA             | KT Rolster        | DWG KIA             | 0.0337      | 0.0072     | DWG KIA           | 01/08/2021 | :heavy_check_mark: |
+| Fredit BRION      | DWG KIA             | Fredit BRION      | DWG KIA             | 0.6977      | 0.0072     | Fredit BRION      | 05/08/2021 |
+| Liiv SANDBOX      | Hanwha Life Esports | Liiv SANDBOX      | Hanwha Life Esports | 0.9457      | 0.7901     | Liiv SANDBOX      | 05/08/2021 |
 |                   |
 <br>
 <br>
