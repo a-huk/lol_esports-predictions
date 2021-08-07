@@ -66,7 +66,7 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
 <br>
 <br>
 
-****LCK:**** Correct ratio: 5/11 = 45%
+****LCK:**** Correct ratio: 5/11 = 55%
 | Team1             | Team 2              | Blue_side         | Red_side            | T1_blue_win | T1_red_win | Predicted_winner  | Date       | Correct            |
 | ----------------- | ------------------- | ----------------- | ------------------- | ----------- | ---------- | ----------------- | ---------- | ------------------ |
 | Liiv SANDBOX      | Nongshim RedForce   | Liiv SANDBOX      | Nongshim RedForce   | 0.2632      | 0.4435     | Nongshim RedForce | 30/07/2021 | :x:                |
@@ -75,7 +75,7 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
 | DRX               | Afreeca Freecs      | DRX               | Afreeca Freecs      | 0.0         | 0.0        | Afreeca Freecs    | 31/07/2021 | :x:                |
 | Nongshim RedForce | Hanwha Life Esports | Nongshim RedForce | Hanwha Life Esports | 0.9838      | 0.3925     | Nongshim RedForce | 01/08/2021 | :heavy_check_mark: |
 | KT Rolster        | DWG KIA             | KT Rolster        | DWG KIA             | 0.0337      | 0.0072     | DWG KIA           | 01/08/2021 | :heavy_check_mark: |
-| Fredit BRION      | DWG KIA             | Fredit BRION      | DWG KIA             | 0.6977      | 0.0072     | Fredit BRION      | 05/08/2021 | :x:                |
+| Fredit BRION      | DWG KIA             | Fredit BRION      | DWG KIA             | 0.6977      | 0.0072     | DWG KIA           | 05/08/2021 | :heavy_check_mark: |
 | Liiv SANDBOX      | Hanwha Life Esports | Liiv SANDBOX      | Hanwha Life Esports | 0.9457      | 0.7901     | Liiv SANDBOX      | 05/08/2021 | :heavy_check_mark: |
 | KT Rolster        | DRX                 | KT Rolster        | DRX                 | 0.0058      | 0.1011     | DRX               | 06/08/2021 | :x:                |
 | T1                | Gen.G               | T1                | Gen.G               | 0.9868      | 0.0026     | Gen.G             | 06/08/2021 | :x:                |
