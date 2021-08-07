@@ -12,6 +12,8 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
  - Currently, I use a weighted average of a team's previous weeks results; the newer, the more weight a performance is given.
  - Feel free to contact me at huk.adam@protonmail.com
  - :warning: means that the academy roster was played, while the main roster's stats were used.
+ - Bo1 matches use the blue team's winrate as the team's side are already known.
+ - LCK and other Bo3 or Bo5 series, will use an average of the red and blue side winrate, which is not completely optimal but better than just using blue side's winrate.
 <br>
 
 
@@ -69,14 +71,14 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
 | ----------------- | ------------------- | ----------------- | ------------------- | ----------- | ---------- | ----------------- | ---------- | ------------------ |
 | Liiv SANDBOX      | Nongshim RedForce   | Liiv SANDBOX      | Nongshim RedForce   | 0.2632      | 0.4435     | Nongshim RedForce | 30/07/2021 | :x:                |
 | KT Rolster        | Gen.G               | KT Rolster        | Gen.G               | 0.2009      | 0.1768     | Gen.G             | 30/07/2021 | :heavy_check_mark: |
-| T1                | Fredit BRION        | T1                | Fredit BRION        | 0.288       | 0.7327     | Fredit BRION      | 31/07/2021 | :x:                |
+| T1                | Fredit BRION        | T1                | Fredit BRION        | 0.288       | 0.7327     | T1                | 31/07/2021 | :heavy_check_mark: |
 | DRX               | Afreeca Freecs      | DRX               | Afreeca Freecs      | 0.0         | 0.0        | Afreeca Freecs    | 31/07/2021 | :x:                |
 | Nongshim RedForce | Hanwha Life Esports | Nongshim RedForce | Hanwha Life Esports | 0.9838      | 0.3925     | Nongshim RedForce | 01/08/2021 | :heavy_check_mark: |
 | KT Rolster        | DWG KIA             | KT Rolster        | DWG KIA             | 0.0337      | 0.0072     | DWG KIA           | 01/08/2021 | :heavy_check_mark: |
 | Fredit BRION      | DWG KIA             | Fredit BRION      | DWG KIA             | 0.6977      | 0.0072     | Fredit BRION      | 05/08/2021 | :x:                |
 | Liiv SANDBOX      | Hanwha Life Esports | Liiv SANDBOX      | Hanwha Life Esports | 0.9457      | 0.7901     | Liiv SANDBOX      | 05/08/2021 | :heavy_check_mark: |
 | KT Rolster        | DRX                 | KT Rolster        | DRX                 | 0.0058      | 0.1011     | DRX               | 06/08/2021 | :x:                |
-| T1                | Gen.G               | T1                | Gen.G               | 0.9868      | 0.0026     | T1                | 06/08/2021 | :heavy_check_mark: |
+| T1                | Gen.G               | T1                | Gen.G               | 0.9868      | 0.0026     | Gen.G             | 06/08/2021 | :x:                |
 | Nongshim RedForce | Afreeca Freecs      | Nongshim RedForce | Afreeca Freecs      | 0.7996      | 0.9377     | Nongshim RedForce | 07/08/2021 | :x:                |
 | Liiv SANDBOX      | Fredit BRION        | Liiv SANDBOX      | Fredit BRION        | 1.0         | 0.9143     | Liiv SANDBOX      | 07/08/2021 |
 |                   |
