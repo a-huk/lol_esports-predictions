@@ -57,13 +57,14 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
 | Team Liquid          | Cloud9           | Team Liquid          | Cloud9           | 0.6775      | 0.0001     | Team Liquid          | 01/08/2021 | :x:                |
 | 100 Thieves          | Evil Geniuses    | 100 Thieves          | Evil Geniuses    | 0.9217      | 0.006      | 100 Thieves          | 01/08/2021 | :x: :warning:      |
 | Counter Logic Gaming | FlyQuest         | Counter Logic Gaming | FlyQuest         | 0.99        | 0.8959     | Counter Logic Gaming | 02/08/2021 | :heavy_check_mark: |
+| Evil Geniuses        | Dignitas         | Evil Geniuses        | Dignitas         | 0.0484      | 0.9376     | Dignitas             | 07/08/2021 |
 |                      |
 
 <br>
 <br>
 <br>
 
-****LCK:**** Correct ratio: 4/8 = 50%
+****LCK:**** Correct ratio: 5/11 = 45%
 | Team1             | Team 2              | Blue_side         | Red_side            | T1_blue_win | T1_red_win | Predicted_winner  | Date       | Correct            |
 | ----------------- | ------------------- | ----------------- | ------------------- | ----------- | ---------- | ----------------- | ---------- | ------------------ |
 | Liiv SANDBOX      | Nongshim RedForce   | Liiv SANDBOX      | Nongshim RedForce   | 0.2632      | 0.4435     | Nongshim RedForce | 30/07/2021 | :x:                |
@@ -74,8 +75,10 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
 | KT Rolster        | DWG KIA             | KT Rolster        | DWG KIA             | 0.0337      | 0.0072     | DWG KIA           | 01/08/2021 | :heavy_check_mark: |
 | Fredit BRION      | DWG KIA             | Fredit BRION      | DWG KIA             | 0.6977      | 0.0072     | Fredit BRION      | 05/08/2021 | :x:                |
 | Liiv SANDBOX      | Hanwha Life Esports | Liiv SANDBOX      | Hanwha Life Esports | 0.9457      | 0.7901     | Liiv SANDBOX      | 05/08/2021 | :heavy_check_mark: |
-| KT Rolster        | DRX                 | KT Rolster        | DRX                 | 0.0058      | 0.1011     | DRX               | 06/08/2021 |
-| T1                | Gen.G               | T1                | Gen.G               | 0.9868      | 0.0026     | T1                | 06/08/2021 |
+| KT Rolster        | DRX                 | KT Rolster        | DRX                 | 0.0058      | 0.1011     | DRX               | 06/08/2021 | :x:                |
+| T1                | Gen.G               | T1                | Gen.G               | 0.9868      | 0.0026     | T1                | 06/08/2021 | :heavy_check_mark: |
+| Nongshim RedForce | Afreeca Freecs      | Nongshim RedForce | Afreeca Freecs      | 0.7996      | 0.9377     | Nongshim RedForce | 07/08/2021 | :x:                |
+| Liiv SANDBOX      | Fredit BRION        | Liiv SANDBOX      | Fredit BRION        | 1.0         | 0.9143     | Liiv SANDBOX      | 07/08/2021 |
 |                   |
 <br>
 <br>
