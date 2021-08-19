@@ -62,13 +62,14 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
 | Counter Logic Gaming | FlyQuest         | Counter Logic Gaming | FlyQuest         | 0.99        | 0.8959     | Counter Logic Gaming | 02/08/2021 | :heavy_check_mark: |
 | Evil Geniuses        | Dignitas         | Evil Geniuses        | Dignitas         | 0.0484      | 0.9376     | Dignitas             | 07/08/2021 | :x:                |
 | Cloud9               | Team Liquid      | Cloud9               | Team Liquid      | 0.993       | 0.7415     | Cloud9               | 08/08/2021 | :x:                |
+| Evil Geniuses        | Cloud9           | Evil Geniuses        | Cloud9           | 0.0391      | 0.0052     | Cloud9               | 19/08/2021 |
 |                      |
 
 <br>
 <br>
 <br>
 
-****LCK:**** Correct ratio: 9/12 = 75%
+****LCK:**** Correct ratio: 9/13 = 69%
 | Team1             | Team 2              | Blue_side         | Red_side            | T1_blue_win | T1_red_win | Predicted_winner  | Date       | Correct            |
 | ----------------- | ------------------- | ----------------- | ------------------- | ----------- | ---------- | ----------------- | ---------- | ------------------ |
 | Liiv SANDBOX      | Nongshim RedForce   | Liiv SANDBOX      | Nongshim RedForce   | 0.2632      | 0.4435     | Nongshim RedForce | 30/07/2021 | :x:                |
@@ -85,7 +86,8 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
 | Liiv SANDBOX      | Fredit BRION        | Liiv SANDBOX      | Fredit BRION        | 1.0         | 0.9143     | Liiv SANDBOX      | 07/08/2021 | :heavy_check_mark: |
 | Gen.G             | DWG KIA             | Gen.G             | DWG KIA             | 0.1055      | 0.0196     | DWG KIA           | 08/08/2021 | :heavy_check_mark: |
 | T1                | DRX                 | T1                | DRX                 | 0.9972      | 0.7535     | T1                | 08/08/2021 | :heavy_check_mark: |
-| Afreeca Freecs    | Nongshim RedForce   | Afreeca Freecs    | Nongshim RedForce   | 0.8339      | 0.8363     | Afreeca Freecs    | 18/08/2021 |
+| Afreeca Freecs    | Nongshim RedForce   | Afreeca Freecs    | Nongshim RedForce   | 0.8339      | 0.8363     | Afreeca Freecs    | 18/08/2021 | :x:                |
+| T1                | Liiv SANDBOX        | T1                | Liiv SANDBOX        | 0.9985      | 0.0037     | T1                | 19/08/2021 |
 |                   |
 <br>
 <br>
