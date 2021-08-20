@@ -37,12 +37,13 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
 | FC Schalke 04 Esports | Fnatic                | FC Schalke 04 Esports | Fnatic                | 0.8672      | 0.5121     | FC Schalke 04 Esports | 01/08/2021 | :x:                |
 | Misfits Gaming        | MAD Lions             | Misfits Gaming        | MAD Lions             | 0.4266      | 0.98       | MAD Lions             | 01/08/2021 | :heavy_check_mark: |
 | G2 Esports            | Excel Esports         | G2 Esports            | Excel Esports         | 0.973       | 0.3713     | G2 Esports            | 01/08/2021 | :heavy_check_mark: |
+| Fnatic                | Misfits Gaming        | Fnatic                | Misfits Gaming        | 0.9983      | 0.9955     | Fnatic                | 20/08/2021 |
 <br>
 <br>
 <br>
 
 
-****LCS:**** Correct ratio: 8/17 = 47%
+****LCS:**** Correct ratio: 9/18 = 50%
 | Team1                | Team 2           | Blue_side            | Red_side         | T1_blue_win | T1_red_win | Predicted_winner     | Date       | Correct            |
 | -------------------- | ---------------- | -------------------- | ---------------- | ----------- | ---------- | ----------------     | ---------- | ------------------ |
 | 100 Thieves          | TSM              | 100 Thieves          | TSM              | 0.0739      | 0.2163     | TSM                  | 30/07/2021 | :heavy_check_mark: |
@@ -62,14 +63,15 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
 | Counter Logic Gaming | FlyQuest         | Counter Logic Gaming | FlyQuest         | 0.99        | 0.8959     | Counter Logic Gaming | 02/08/2021 | :heavy_check_mark: |
 | Evil Geniuses        | Dignitas         | Evil Geniuses        | Dignitas         | 0.0484      | 0.9376     | Dignitas             | 07/08/2021 | :x:                |
 | Cloud9               | Team Liquid      | Cloud9               | Team Liquid      | 0.993       | 0.7415     | Cloud9               | 08/08/2021 | :x:                |
-| Evil Geniuses        | Cloud9           | Evil Geniuses        | Cloud9           | 0.0391      | 0.0052     | Cloud9               | 19/08/2021 |
+| Evil Geniuses        | Cloud9           | Evil Geniuses        | Cloud9           | 0.0391      | 0.0052     | Cloud9               | 19/08/2021 | :heavy_check_mark: |
+| TSM                  | Immortals        | TSM                  | Immortals        | 0.1211      | 0.7477     | Immortals            | 20/08/2021 |
 |                      |
 
 <br>
 <br>
 <br>
 
-****LCK:**** Correct ratio: 9/13 = 69%
+****LCK:**** Correct ratio: 10/16 = 62%
 | Team1             | Team 2              | Blue_side         | Red_side            | T1_blue_win | T1_red_win | Predicted_winner  | Date       | Correct            |
 | ----------------- | ------------------- | ----------------- | ------------------- | ----------- | ---------- | ----------------- | ---------- | ------------------ |
 | Liiv SANDBOX      | Nongshim RedForce   | Liiv SANDBOX      | Nongshim RedForce   | 0.2632      | 0.4435     | Nongshim RedForce | 30/07/2021 | :x:                |
@@ -87,7 +89,7 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
 | Gen.G             | DWG KIA             | Gen.G             | DWG KIA             | 0.1055      | 0.0196     | DWG KIA           | 08/08/2021 | :heavy_check_mark: |
 | T1                | DRX                 | T1                | DRX                 | 0.9972      | 0.7535     | T1                | 08/08/2021 | :heavy_check_mark: |
 | Afreeca Freecs    | Nongshim RedForce   | Afreeca Freecs    | Nongshim RedForce   | 0.8339      | 0.8363     | Afreeca Freecs    | 18/08/2021 | :x:                |
-| T1                | Liiv SANDBOX        | T1                | Liiv SANDBOX        | 0.9985      | 0.0037     | T1                | 19/08/2021 |
+| T1                | Liiv SANDBOX        | T1                | Liiv SANDBOX        | 0.9985      | 0.0037     | T1                | 19/08/2021 | :heavy_check_mark: |
 |                   |
 <br>
 <br>
