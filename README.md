@@ -19,7 +19,7 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
 
 
 
-****LEC:**** Correct ratio: 11/15 = 73%
+****LEC:**** Correct ratio: 12/16 = 75%
 | Team1                 | Team 2                | Blue_side             | Red_side              | T1_blue_win | T1_red_win | Predicted_winner      | Date       | Correct            |
 | --------------------- | --------------------- | --------------------- | --------------------- | ----------- | ---------- | --------------------- | ---------- | ------------------ |
 | FC Schalke 04 Esports | Team Vitality         | FC Schalke 04 Esports | Team Vitality         | 0.0001      | 0.0        | Team Vitality         | 30/07/2021 | :heavy_check_mark: |
@@ -37,13 +37,14 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
 | FC Schalke 04 Esports | Fnatic                | FC Schalke 04 Esports | Fnatic                | 0.8672      | 0.5121     | FC Schalke 04 Esports | 01/08/2021 | :x:                |
 | Misfits Gaming        | MAD Lions             | Misfits Gaming        | MAD Lions             | 0.4266      | 0.98       | MAD Lions             | 01/08/2021 | :heavy_check_mark: |
 | G2 Esports            | Excel Esports         | G2 Esports            | Excel Esports         | 0.973       | 0.3713     | G2 Esports            | 01/08/2021 | :heavy_check_mark: |
-| Fnatic                | Misfits Gaming        | Fnatic                | Misfits Gaming        | 0.9983      | 0.9955     | Fnatic                | 20/08/2021 |
+| Fnatic                | Misfits Gaming        | Fnatic                | Misfits Gaming        | 0.9983      | 0.9955     | Fnatic                | 20/08/2021 | :heavy_check_mark: |
+| Rogue                 | MAD Lions             | Rogue                 | MAD Lions             | 0.9879      | 0.9848     | Rogue                 | 21/08/2021 | :x:                |
 <br>
 <br>
 <br>
 
 
-****LCS:**** Correct ratio: 9/18 = 50%
+****LCS:**** Correct ratio: 9/20 = 45%
 | Team1                | Team 2           | Blue_side            | Red_side         | T1_blue_win | T1_red_win | Predicted_winner     | Date       | Correct            |
 | -------------------- | ---------------- | -------------------- | ---------------- | ----------- | ---------- | ----------------     | ---------- | ------------------ |
 | 100 Thieves          | TSM              | 100 Thieves          | TSM              | 0.0739      | 0.2163     | TSM                  | 30/07/2021 | :heavy_check_mark: |
@@ -64,14 +65,15 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
 | Evil Geniuses        | Dignitas         | Evil Geniuses        | Dignitas         | 0.0484      | 0.9376     | Dignitas             | 07/08/2021 | :x:                |
 | Cloud9               | Team Liquid      | Cloud9               | Team Liquid      | 0.993       | 0.7415     | Cloud9               | 08/08/2021 | :x:                |
 | Evil Geniuses        | Cloud9           | Evil Geniuses        | Cloud9           | 0.0391      | 0.0052     | Cloud9               | 19/08/2021 | :heavy_check_mark: |
-| TSM                  | Immortals        | TSM                  | Immortals        | 0.1211      | 0.7477     | Immortals            | 20/08/2021 |
+| TSM                  | Immortals        | TSM                  | Immortals        | 0.1211      | 0.7477     | Immortals            | 20/08/2021 | :x:                |
+| Team Liquid          | 100 Thieves      | Team Liquid          | 100 Thieves      | 0.2226      | 0.151      | 100 Thieves          | 21/08/2021 | :x:                |       
 |                      |
 
 <br>
 <br>
 <br>
 
-****LCK:**** Correct ratio: 10/16 = 62%
+****LCK:**** Correct ratio: 10/17 = 59%
 | Team1             | Team 2              | Blue_side         | Red_side            | T1_blue_win | T1_red_win | Predicted_winner  | Date       | Correct            |
 | ----------------- | ------------------- | ----------------- | ------------------- | ----------- | ---------- | ----------------- | ---------- | ------------------ |
 | Liiv SANDBOX      | Nongshim RedForce   | Liiv SANDBOX      | Nongshim RedForce   | 0.2632      | 0.4435     | Nongshim RedForce | 30/07/2021 | :x:                |
@@ -90,6 +92,7 @@ I am mainly a fan of LCS and decided to preddict results on the four major regio
 | T1                | DRX                 | T1                | DRX                 | 0.9972      | 0.7535     | T1                | 08/08/2021 | :heavy_check_mark: |
 | Afreeca Freecs    | Nongshim RedForce   | Afreeca Freecs    | Nongshim RedForce   | 0.8339      | 0.8363     | Afreeca Freecs    | 18/08/2021 | :x:                |
 | T1                | Liiv SANDBOX        | T1                | Liiv SANDBOX        | 0.9985      | 0.0037     | T1                | 19/08/2021 | :heavy_check_mark: |
+| Nongshim RedForce | DWG KIA             | Nongshim RedForce | DWG KIA             | 0.724       | 0.558      | Nongshim RedForce | 21/08/2021 | :x:                |
 |                   |
 <br>
 <br>
