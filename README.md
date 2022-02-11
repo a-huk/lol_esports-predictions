@@ -1,20 +1,17 @@
 ****What is this?****<br>
 This is a side-project of mine to attempt to predict professional League of Legends games.<br>
 <br>****How is it done?****<br>
-Currently, I am using a classification AI to determine the winner. I will publish the code for it once I feel it is ready to see the light of day. There is sadly no official, free and reliable API available for LoLEsports. Luckily, Oracle's Elixir makes much of this data available in a very organised form. Thanks for that.<br>
+Currently, I am using classification to determine the winner. I am using tflearn and akkio, I will further polish and explain more in the future. There is sadly no official, free and reliable API available for LoLEsports. Luckily, Oracle's Elixir makes much of this data available in a very organised form. Thanks for that.<br>
 <br>****Why these leagues?****<br>
-I am mainly a fan of LCS and decided to preddict results on the four major regions: LEC, LPL, LCK and LEC. Sadly, there is missing data for the LPL Summer Spit of 2021, thus LPL predictions have been left out.<br>
+I am mainly a fan of LCS and decided to preddict results on the four major regions: LEC, LPL, LCK and LEC. Sadly, there is missing data for the LPL Summer Spit of 2021, thus LPL predictions have been left out. As for LCK, I still need to get a hold of their schedule.<br>
 <br>****Notes****
  - These are only predictions, therefore they might not come true. 
  - The project assumes that past performance can predict future performance, thus "upsets" will most likely never be predicted.
+ - We are determining the "stronger" team and saying that it will win.
  - I try to run the script once a day, thus some predictions might be too late. 
  - This mainly serves as a repository for me to evaluate the long-term correctness of this approach.
- - Currently, I use a weighted average of a team's previous weeks results; the newer, the more weight a performance is given.
+ - Akkio seems to make much balder/cut&dry predictions.
  - Feel free to contact me at huk.adam@protonmail.com
- - :warning: means that the academy roster was played, while the main roster's stats were used.
- - Bo1 matches use the blue team's winrate as the team's side are already known.
- - LCK and other Bo3 or Bo5 series, will use an average of the red and blue side winrate, which is not completely optimal but better than just using blue side's winrate.
- - Not all part of result uploading are automated and thus not all matches will be predicted.
 <br>
 
 
