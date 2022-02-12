@@ -1,95 +1,36 @@
-****What is this?****<br>
+
+****What is this?****
 This is a side-project of mine to attempt to predict professional League of Legends games.<br>
-<br>****How is it done?****<br>
-Currently, I am using classification to determine the winner. I am using tflearn and akkio, I will further polish and explain more in the future. There is sadly no official, free and reliable API available for LoLEsports. Luckily, Oracle's Elixir makes much of this data available in a very organised form. Thanks for that.<br>
-<br>****Why these leagues?****<br>
-I am mainly a fan of LCS and decided to preddict results on the four major regions: LEC, LPL, LCK and LEC. Sadly, there is missing data for the LPL Summer Spit of 2021, thus LPL predictions have been left out. As for LCK, I still need to get a hold of their schedule.<br>
-<br>****Notes****
+<br>****Thanks****
+I could not do this project on my own. So here are people/organisations that I would like to thank and suggest that you check out their work.
+First, thanks to [Oracle's Elixir](https://oracleselixir.com/) for the up-to-date and free data available on their website, nobody else has such data available like they do.
+Second, thanks to [MRittinghouse](https://github.com/MRittinghouse) for his [oracles_elixir.py](https://github.com/MRittinghouse/ProjektZero-LoL-Model/blob/main/src/oracles_elixir.py) script and advice on OE's discord.
+Third, thanks to [zlypher](https://github.com/zlypher) for his [LoL schedules](https://github.com/zlypher/lol-events)
+Lastly, to anyone else that I have forgotten.
+<br>****How is it done?****
+Without going into too much detail, I use two models to predict game results. The firs is built using [tflearn](https://github.com/tflearn/tflearn) which is based on TensorFlow 1. It is a classification deep-neural-network.
+The second model is based on [Akkio](https://www.akkio.com/), which I would describe as a all-in-one black-box AI (using their free tier), apparently it is using a Sparse Neural Network.
+There is sadly no official, free and reliable API available for LoLEsports. Luckily, [Oracle's Elixir](https://oracleselixir.com/) makes much of this data available in a very organised form. Thanks for that. 
+<br>****Why these leagues?****
+I am mainly a fan of LCS and decided to predict results on the four major regions: LEC, LPL, LCK and LEC. Sadly, there is missing data for the LPL on OE, thus LPL predictions have been left out. 
+<br>****How to get it running****
+This only works on Linux, there is no plan to port it to another OS.There are many different components involved, so most is managed by conda. First, clone the repository and install [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html), then [import](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file) my environment. 
+You also need to install Firefox. Then run the predict.sh file (change it to match you username). 
+Add you pandascore and akkio token.
+Then voila you should be set
+<br>****NOTES****
  - These are only predictions, therefore they might not come true. 
  - The project assumes that past performance can predict future performance, thus "upsets" will most likely never be predicted.
  - We are determining the "stronger" team and saying that it will win.
- - I try to run the script once a day, thus some predictions might be too late. 
+ - I will try to run the script automatically once a day, thus all predictions should be updated daily.
  - This mainly serves as a repository for me to evaluate the long-term correctness of this approach.
  - Akkio seems to make much balder/cut&dry predictions.
  - Feel free to contact me at huk.adam@protonmail.com
-<br>
 
+<br>****Your code is awful!****
+As said above, this is not serious, just some hacked together code. 
+<br>****How have you come to this DNN structure?****
+There is no easy way to find the best parameters for tflearn, I have done some limited testing trying different activation fucntions, epochs and layers. To be fair, most did not make much of a difference, take a look at the tuning folder for some non-scientific measurements.
+<br>****Any plans for the future?****
+Like MRittinghouse, I would like to create a few more models, especially based on players and combine them into an ensemble, as they are proven to give better accuracy with competent models.
 
-
-****LEC:**** Correct ratio: 12/16 = 75%
-| Team1                 | Team 2                | Blue_side             | Red_side              | T1_blue_win | T1_red_win | Predicted_winner      | Date       | Correct            |
-| --------------------- | --------------------- | --------------------- | --------------------- | ----------- | ---------- | --------------------- | ---------- | ------------------ |
-| FC Schalke 04 Esports | Team Vitality         | FC Schalke 04 Esports | Team Vitality         | 0.0001      | 0.0        | Team Vitality         | 30/07/2021 | :heavy_check_mark: |
-| SK Gaming             | Astralis              | SK Gaming             | Astralis              | 0.8315      | 0.2439     | SK Gaming             | 30/07/2021 | :heavy_check_mark: |
-| Excel Esports         | Rogue                 | Excel Esports         | Rogue                 | 0.0023      | 0.3163     | Rogue                 | 30/07/2021 | :heavy_check_mark: |
-| MAD Lions             | G2 Esports            | MAD Lions             | G2 Esports            | 0.0532      | 0.0154     | G2 Esports            | 30/07/2021 | :heavy_check_mark: |
-| Misfits Gaming        | Fnatic                | Misfits Gaming        | Fnatic                | 0.8539      | 0.9795     | Misfits Gaming        | 30/07/2021 | :heavy_check_mark: |
-| Misfits Gaming        | SK Gaming             | Misfits Gaming        | SK Gaming             | 0.6934      | 0.9855     | Misfits Gaming        | 31/07/2021 | :heavy_check_mark: |
-| Astralis              | Excel Esports         | Astralis              | Excel Esports         | 0.6372      | 0.4653     | Astralis              | 31/07/2021 | :x:                |
-| Rogue                 | Team Vitality         | Rogue                 | Team Vitality         | 1.0         | 0.0001     | Rogue                 | 31/07/2021 | :x:                |
-| G2 Esports            | FC Schalke 04 Esports | G2 Esports            | FC Schalke 04 Esports | 0.9813      | 1.0        | G2 Esports            | 31/07/2021 | :heavy_check_mark: |
-| Fnatic                | MAD Lions             | Fnatic                | MAD Lions             | 0.8681      | 0.0436     | Fnatic                | 31/07/2021 | :x:                |
-| Rogue                 | SK Gaming             | Rogue                 | SK Gaming             | 0.9998      | 0.4951     | Rogue                 | 01/08/2021 | :heavy_check_mark: |
-| Team Vitality         | Astralis              | Team Vitality         | Astralis              | 0.5743      | 0.9675     | Team Vitality         | 01/08/2021 | :heavy_check_mark: |
-| FC Schalke 04 Esports | Fnatic                | FC Schalke 04 Esports | Fnatic                | 0.8672      | 0.5121     | FC Schalke 04 Esports | 01/08/2021 | :x:                |
-| Misfits Gaming        | MAD Lions             | Misfits Gaming        | MAD Lions             | 0.4266      | 0.98       | MAD Lions             | 01/08/2021 | :heavy_check_mark: |
-| G2 Esports            | Excel Esports         | G2 Esports            | Excel Esports         | 0.973       | 0.3713     | G2 Esports            | 01/08/2021 | :heavy_check_mark: |
-| Fnatic                | Misfits Gaming        | Fnatic                | Misfits Gaming        | 0.9983      | 0.9955     | Fnatic                | 20/08/2021 | :heavy_check_mark: |
-| Rogue                 | MAD Lions             | Rogue                 | MAD Lions             | 0.9879      | 0.9848     | Rogue                 | 21/08/2021 | :x:                |
-<br>
-<br>
-<br>
-
-
-****LCS:**** Correct ratio: 9/20 = 45%
-| Team1                | Team 2           | Blue_side            | Red_side         | T1_blue_win | T1_red_win | Predicted_winner     | Date       | Correct            |
-| -------------------- | ---------------- | -------------------- | ---------------- | ----------- | ---------- | ----------------     | ---------- | ------------------ |
-| 100 Thieves          | TSM              | 100 Thieves          | TSM              | 0.0739      | 0.2163     | TSM                  | 30/07/2021 | :heavy_check_mark: |
-| Evil Geniuses        | Cloud9           | Evil Geniuses        | Cloud9           | 0.0319      | 0.366      | Cloud9               | 30/07/2021 | :x:                |
-| FlyQuest             | Golden Guardians | FlyQuest             | Golden Guardians | 0.0         | 0.0606     | Golden Guardians     | 31/07/2021 | :heavy_check_mark: |
-| Immortals            | Team Liquid      | Immortals            | Team Liquid      | 0.9658      | 0.0108     | Immortals            | 31/07/2021 | :x:                |
-| Counter Logic Gaming | Dignitas         | Counter Logic Gaming | Dignitas         | 0.0         | 0.0003     | Dignitas             | 31/07/2021 | :heavy_check_mark: |
-| 100 Thieves          | Golden Guardians | 100 Thieves          | Golden Guardians | 0.9481      | 0.0089     | 100 Thieves          | 31/07/2021 | :heavy_check_mark: |
-| Team Liquid          | Evil Geniuses    | Team Liquid          | Evil Geniuses    | 1.0         | 0.0        | Team Liquid          | 31/07/2021 | :heavy_check_mark: |
-| Cloud9               | Dignitas         | Cloud9               | Dignitas         | 0.9933      | 0.2375     | Cloud9               | 31/07/2021 | :heavy_check_mark: |
-| FlyQuest             | Immortals        | FlyQuest             | Immortals        | 0.0001      | 0.7125     | Immortals            | 01/08/2021 | :x:                |
-| Counter Logic Gaming | TSM              | Counter Logic Gaming | TSM              | 0.0         | 0.0        | TSM                  | 01/08/2021 | :heavy_check_mark: |
-| Dignitas             | TSM              | Dignitas             | TSM              | 0.1621      | 0.0264     | TSM                  | 01/08/2021 | :x:                |
-| Immortals            | Golden Guardians | Immortals            | Golden Guardians | 0.7571      | 0.9967     | Immortals            | 01/08/2021 | :x:                |
-| Team Liquid          | Cloud9           | Team Liquid          | Cloud9           | 0.6775      | 0.0001     | Team Liquid          | 01/08/2021 | :x:                |
-| 100 Thieves          | Evil Geniuses    | 100 Thieves          | Evil Geniuses    | 0.9217      | 0.006      | 100 Thieves          | 01/08/2021 | :x: :warning:      |
-| Counter Logic Gaming | FlyQuest         | Counter Logic Gaming | FlyQuest         | 0.99        | 0.8959     | Counter Logic Gaming | 02/08/2021 | :heavy_check_mark: |
-| Evil Geniuses        | Dignitas         | Evil Geniuses        | Dignitas         | 0.0484      | 0.9376     | Dignitas             | 07/08/2021 | :x:                |
-| Cloud9               | Team Liquid      | Cloud9               | Team Liquid      | 0.993       | 0.7415     | Cloud9               | 08/08/2021 | :x:                |
-| Evil Geniuses        | Cloud9           | Evil Geniuses        | Cloud9           | 0.0391      | 0.0052     | Cloud9               | 19/08/2021 | :heavy_check_mark: |
-| TSM                  | Immortals        | TSM                  | Immortals        | 0.1211      | 0.7477     | Immortals            | 20/08/2021 | :x:                |
-| Team Liquid          | 100 Thieves      | Team Liquid          | 100 Thieves      | 0.2226      | 0.151      | 100 Thieves          | 21/08/2021 | :x:                |       
-|                      |
-
-<br>
-<br>
-<br>
-
-****LCK:**** Correct ratio: 10/17 = 59%
-| Team1             | Team 2              | Blue_side         | Red_side            | T1_blue_win | T1_red_win | Predicted_winner  | Date       | Correct            |
-| ----------------- | ------------------- | ----------------- | ------------------- | ----------- | ---------- | ----------------- | ---------- | ------------------ |
-| Liiv SANDBOX      | Nongshim RedForce   | Liiv SANDBOX      | Nongshim RedForce   | 0.2632      | 0.4435     | Nongshim RedForce | 30/07/2021 | :x:                |
-| KT Rolster        | Gen.G               | KT Rolster        | Gen.G               | 0.2009      | 0.1768     | Gen.G             | 30/07/2021 | :heavy_check_mark: |
-| T1                | Fredit BRION        | T1                | Fredit BRION        | 0.288       | 0.7327     | T1                | 31/07/2021 | :heavy_check_mark: |
-| DRX               | Afreeca Freecs      | DRX               | Afreeca Freecs      | 0.0         | 0.0        | Afreeca Freecs    | 31/07/2021 | :x:                |
-| Nongshim RedForce | Hanwha Life Esports | Nongshim RedForce | Hanwha Life Esports | 0.9838      | 0.3925     | Nongshim RedForce | 01/08/2021 | :heavy_check_mark: |
-| KT Rolster        | DWG KIA             | KT Rolster        | DWG KIA             | 0.0337      | 0.0072     | DWG KIA           | 01/08/2021 | :heavy_check_mark: |
-| Fredit BRION      | DWG KIA             | Fredit BRION      | DWG KIA             | 0.6977      | 0.0072     | DWG KIA           | 05/08/2021 | :heavy_check_mark: |
-| Liiv SANDBOX      | Hanwha Life Esports | Liiv SANDBOX      | Hanwha Life Esports | 0.9457      | 0.7901     | Liiv SANDBOX      | 05/08/2021 | :heavy_check_mark: |
-| KT Rolster        | DRX                 | KT Rolster        | DRX                 | 0.0058      | 0.1011     | DRX               | 06/08/2021 | :x:                |
-| T1                | Gen.G               | T1                | Gen.G               | 0.9868      | 0.0026     | Gen.G             | 06/08/2021 | :x:                |
-| Nongshim RedForce | Afreeca Freecs      | Nongshim RedForce | Afreeca Freecs      | 0.7996      | 0.9377     | Nongshim RedForce | 07/08/2021 | :x:                |
-| Liiv SANDBOX      | Fredit BRION        | Liiv SANDBOX      | Fredit BRION        | 1.0         | 0.9143     | Liiv SANDBOX      | 07/08/2021 | :heavy_check_mark: |
-| Gen.G             | DWG KIA             | Gen.G             | DWG KIA             | 0.1055      | 0.0196     | DWG KIA           | 08/08/2021 | :heavy_check_mark: |
-| T1                | DRX                 | T1                | DRX                 | 0.9972      | 0.7535     | T1                | 08/08/2021 | :heavy_check_mark: |
-| Afreeca Freecs    | Nongshim RedForce   | Afreeca Freecs    | Nongshim RedForce   | 0.8339      | 0.8363     | Afreeca Freecs    | 18/08/2021 | :x:                |
-| T1                | Liiv SANDBOX        | T1                | Liiv SANDBOX        | 0.9985      | 0.0037     | T1                | 19/08/2021 | :heavy_check_mark: |
-| Nongshim RedForce | DWG KIA             | Nongshim RedForce | DWG KIA             | 0.724       | 0.558      | Nongshim RedForce | 21/08/2021 | :x:                |
-|                   |
-<br>
-<br>
