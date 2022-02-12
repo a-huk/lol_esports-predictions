@@ -1,9 +1,9 @@
 Team 1,Team 2,Date,t1_win_tf,t2_win_tf,t1_win_akkio,t2_win_akkio,Winner_tf,Winner_akkio,Correct_tf,Correct_akkio
 Astralis,Rogue,11/02/2022,0.024,0.976,0,1,Rogue,Rogue,N,N
-Excel Esports,Team Vitality,11/02/2022,0.44,0.56,0,1,Team Vitality,Team Vitality,,
+Excel Esports,Team Vitality,11/02/2022,0.44,0.56,0,1,Team Vitality,Team Vitality,N,N
 Misfits Gaming,Team BDS,11/02/2022,0.735,0.265,1,0,Misfits Gaming,Misfits Gaming,Y,Y
-Fnatic,SK Gaming,11/02/2022,0.819,0.181,1,0,Fnatic,Fnatic,,
-G2 Esports,MAD Lions,11/02/2022,0.649,0.351,0,1,G2 Esports,MAD Lions,,
+Fnatic,SK Gaming,11/02/2022,0.819,0.181,1,0,Fnatic,Fnatic,Y,Y
+G2 Esports,MAD Lions,11/02/2022,0.649,0.351,0,1,G2 Esports,MAD Lions,Y,N
 Excel Esports,Team BDS,12/02/2022,0.813,0.187,1,0,Excel Esports,Excel Esports,,
 MAD Lions,SK Gaming,12/02/2022,0.902,0.098,1,0,MAD Lions,MAD Lions,,
 Misfits Gaming,Rogue,12/02/2022,0.094,0.906,0,1,Rogue,Rogue,,
