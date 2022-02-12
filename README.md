@@ -14,7 +14,7 @@ There is sadly no official, free and reliable API available for LoLEsports. Luck
 <br><br>****Why these leagues?****<br>
 I am mainly a fan of the LCS and decided to predict results on the four major regions: LEC, LPL, LCK and LEC. Sadly, there is missing data for the LPL on OE, thus LPL predictions have been left out. 
 <br><br>****How to get it running****<br>
-This only works on Linux, there is no plan to port it to another OS. There are many different components involved, so most is managed by conda. First, clone the repository and install [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html), then [import](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file) my environment. 
+This only works on Linux, there is no plan to port it to another OS. There are many different components involved, so most is managed by conda. First, clone the repository and install [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html), then [import](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file) [my environment](https://github.com/a-huk/lol_esports-predictions/blob/main/config/tf15.yml). 
 You also need to install Firefox. Then run the predict.sh file (change it to match you username). 
 Add you pandascore and akkio token.
 Then voila you should be predict.
