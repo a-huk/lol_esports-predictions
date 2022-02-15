@@ -101,7 +101,18 @@ def get_team_names(team1, team2):
         "SK": "SK Gaming",
         "FNC": "Fnatic",
         "MAD": "MAD Lions",
-        "G2": "G2 Esports"
+        "G2": "G2 Esports",
+        "BRO" : "Fredit BRION",
+        "KT" : "KT Rolster",
+        "LSB" : "Liiv SANDBOX",
+        "NS" : "Nongshim RedForce",
+        "GEN" : "Gen.G",
+        "HLE" : "Hanwha Life Esports",
+        "KDF" : "Kwangdong Freecs",
+        "DK" : "DWG KIA",
+        "DRX" : "DRX",
+        "T1" : "T1"
+
     }
     return [team_dic[team1], team_dic[team2]]
 
