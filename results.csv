@@ -25,11 +25,10 @@ Fredit BRION,Liiv SANDBOX,16/02/2022,0.807,0.193,0.463,0.537,Fredit BRION,Liiv S
 Gen.G,Nongshim RedForce,16/02/2022,0.771,0.229,1.0,0.0,Gen.G,Gen.G,Y,Y
 Hanwha Life Esports,Kwangdong Freecs,17/02/2022,0.43,0.57,0.0,1.0,Kwangdong Freecs,Kwangdong Freecs,Y,Y
 DRX,DWG KIA,17/02/2022,0.285,0.715,0.0,1.0,DWG KIA,DWG KIA,N,N
-
-Excel Esports,Misfits Gaming,18/02/2022,0.491,0.509,1.0,0.0,Misfits Gaming,Excel Esports,,
-G2 Esports,SK Gaming,18/02/2022,0.994,0.006,1.0,0.0,G2 Esports,G2 Esports,,
-Astralis,Fnatic,18/02/2022,0.014,0.986,0.0,1.0,Fnatic,Fnatic,,
-Team BDS,Team Vitality,18/02/2022,0.161,0.839,0.0,1.0,Team Vitality,Team Vitality,,
-MAD Lions,Rogue,18/02/2022,0.039,0.961,0.0,1.0,Rogue,Rogue,,
-KT Rolster,T1,18/02/2022,0.076,0.924,0.0,1.0,T1,T1,,
-Gen.G,Liiv SANDBOX,18/02/2022,0.993,0.007,1.0,0.0,Gen.G,Gen.G,,
+Excel Esports,Misfits Gaming,18/02/2022,0.491,0.509,1.0,0.0,Misfits Gaming,Excel Esports,Y,N
+G2 Esports,SK Gaming,18/02/2022,0.994,0.006,1.0,0.0,G2 Esports,G2 Esports,N,N
+Astralis,Fnatic,18/02/2022,0.014,0.986,0.0,1.0,Fnatic,Fnatic,N,N
+Team BDS,Team Vitality,18/02/2022,0.161,0.839,0.0,1.0,Team Vitality,Team Vitality,Y,Y
+MAD Lions,Rogue,18/02/2022,0.039,0.961,0.0,1.0,Rogue,Rogue,,YY
+KT Rolster,T1,18/02/2022,0.076,0.924,0.0,1.0,T1,T1,Y,Y
+Gen.G,Liiv SANDBOX,18/02/2022,0.993,0.007,1.0,0.0,Gen.G,Gen.G,Y,Y
