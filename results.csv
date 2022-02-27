@@ -1,89 +1,88 @@
-Team 1,Team 2,Date,t1_win_tf,t2_win_tf,t1_win_akkio,t2_win_akkio,t1_win_player,t2_win_player,Winner_tf,Winner_akkio,Winner_player,Correct_tf,Correct_akkio,Correct_player
-Astralis,Rogue,11/02/2022,0.024,0.976,0.0,1.0,-,-,Rogue,Rogue,-,N,N,-
-Excel Esports,Team Vitality,11/02/2022,0.44,0.56,0.0,1.0,-,-,Team Vitality,Team Vitality,-,N,N,-
-Misfits Gaming,Team BDS,11/02/2022,0.735,0.265,1.0,0.0,-,-,Misfits Gaming,Misfits Gaming,-,Y,Y,-
-Fnatic,SK Gaming,11/02/2022,0.819,0.181,1.0,0.0,-,-,Fnatic,Fnatic,-,Y,Y,-
-G2 Esports,MAD Lions,11/02/2022,0.649,0.351,0.0,1.0,-,-,G2 Esports,MAD Lions,-,Y,N,-
-Excel Esports,Team BDS,12/02/2022,0.724,0.276,1.0,0.0,-,-,Excel Esports,Excel Esports,-,Y,Y,-
-MAD Lions,SK Gaming,12/02/2022,0.512,0.488,1.0,0.0,-,-,MAD Lions,MAD Lions,-,N,N,-
-Misfits Gaming,Rogue,12/02/2022,0.332,0.668,0.0,1.0,-,-,Rogue,Rogue,-,N,N,-
-Astralis,G2 Esports,12/02/2022,0.293,0.707,0.0,1.0,-,-,G2 Esports,G2 Esports,-,Y,Y,-
-Fnatic,Team Vitality,12/02/2022,0.516,0.484,1.0,0.0,-,-,Fnatic,Fnatic,-,Y,Y,-
-Dignitas,Evil Geniuses,12/02/2022,0.688,0.312,1.0,0.0,-,-,Dignitas,Dignitas,-,N,N,-
-100 Thieves,Immortals,12/02/2022,0.985,0.015,1.0,0.0,-,-,100 Thieves,100 Thieves,-,N,N,-
-Cloud9,Team Liquid,12/02/2022,0.55,0.45,0.0,1.0,-,-,Cloud9,Team Liquid,-,N,Y,-
-Counter Logic Gaming,Golden Guardians,12/02/2022,0.14,0.86,0.0,1.0,-,-,Golden Guardians,Golden Guardians,-,Y,Y,-
-FlyQuest,TSM,12/02/2022,0.912,0.088,0.513,0.487,-,-,FlyQuest,FlyQuest,-,Y,Y,-
-Kwangdong Freecs,Nongshim RedForce,12/02/2022,0.276,0.724,0.0,1.0,-,-,Nongshim RedForce,Nongshim RedForce,-,N,N,-
-Fredit BRION,KT Rolster,12/02/2022,0.434,0.566,0.0,1.0,-,-,KT Rolster,KT Rolster,-,Y,Y,-
-Cloud9,Immortals,13/02/2022,0.978,0.022,0.48,0.52,-,-,Cloud9,Immortals,-,Y,N,-
-Golden Guardians,TSM,13/02/2022,0.973,0.027,1.0,0.0,-,-,Golden Guardians,Golden Guardians,-,Y,Y,-
-100 Thieves,Evil Geniuses,13/02/2022,0.858,0.142,1.0,0.0,-,-,100 Thieves,100 Thieves,-,Y,Y,-
-FlyQuest,Team Liquid,13/02/2022,0.886,0.114,0.0,1.0,-,-,FlyQuest,Team Liquid,-,N,Y,-
-Counter Logic Gaming,Dignitas,13/02/2022,0.004,0.996,0.0,1.0,-,-,Dignitas,Dignitas,-,Y,Y,-
-Fredit BRION,Liiv SANDBOX,16/02/2022,0.807,0.193,0.463,0.537,-,-,Fredit BRION,Liiv SANDBOX,-,N,Y,-
-Gen.G,Nongshim RedForce,16/02/2022,0.771,0.229,1.0,0.0,-,-,Gen.G,Gen.G,-,Y,Y,-
-Hanwha Life Esports,Kwangdong Freecs,17/02/2022,0.43,0.57,0.0,1.0,-,-,Kwangdong Freecs,Kwangdong Freecs,-,Y,Y,-
-DRX,DWG KIA,17/02/2022,0.285,0.715,0.0,1.0,-,-,DWG KIA,DWG KIA,-,N,N,-
-Excel Esports,Misfits Gaming,18/02/2022,0.491,0.509,1.0,0.0,-,-,Misfits Gaming,Excel Esports,-,Y,N,-
-G2 Esports,SK Gaming,18/02/2022,0.994,0.006,1.0,0.0,-,-,G2 Esports,G2 Esports,-,N,N,-
-Astralis,Fnatic,18/02/2022,0.014,0.986,0.0,1.0,-,-,Fnatic,Fnatic,-,N,N,-
-Team BDS,Team Vitality,18/02/2022,0.161,0.839,0.0,1.0,-,-,Team Vitality,Team Vitality,-,Y,Y,-
-MAD Lions,Rogue,18/02/2022,0.039,0.961,0.0,1.0,-,-,Rogue,Rogue,-,Y,Y,-
-KT Rolster,T1,18/02/2022,0.076,0.924,0.0,1.0,-,-,T1,T1,-,Y,Y,-
-Gen.G,Liiv SANDBOX,18/02/2022,0.993,0.007,1.0,0.0,-,-,Gen.G,Gen.G,-,Y,Y,-
-Astralis,Excel Esports,19/02/2022,0.462,0.538,0.526,0.474,-,-,Excel Esports,Astralis,-,Y,N,-
-SK Gaming,Team BDS,19/02/2022,0.501,0.499,0.645,0.355,-,-,SK Gaming,SK Gaming,-,Y,Y,-
-MAD Lions,Misfits Gaming,19/02/2022,0.267,0.733,1.0,0.0,-,-,Misfits Gaming,MAD Lions,-,Y,N,-
-Rogue,Team Vitality,19/02/2022,0.594,0.406,1.0,0.0,-,-,Rogue,Rogue,-,Y,Y,-
-Fnatic,G2 Esports,19/02/2022,0.497,0.503,1.0,0.0,-,-,G2 Esports,Fnatic,-,N,Y,-
-100 Thieves,Golden Guardians,19/02/2022,0.521,0.479,0.0,1.0,-,-,100 Thieves,Golden Guardians,-,Y,N,-
-Immortals,TSM,19/02/2022,0.5,0.5,0.497,0.503,-,-,TSM,TSM,-,Y,Y,-
-Evil Geniuses,Team Liquid,19/02/2022,0.432,0.568,0.0,1.0,-,-,Team Liquid,Team Liquid,-,Y,Y,-
-Dignitas,FlyQuest,19/02/2022,0.501,0.499,1.0,0.0,-,-,Dignitas,Dignitas,-,N,N,-
-Cloud9,Counter Logic Gaming,19/02/2022,0.836,0.164,1.0,0.0,-,-,Cloud9,Cloud9,-,N,N,-
-DRX,Hanwha Life Esports,19/02/2022,0.534,0.466,0.503,0.497,-,-,DRX,DRX,-,N,N,-
-Fredit BRION,Kwangdong Freecs,19/02/2022,0.575,0.425,0.499,0.501,-,-,Fredit BRION,Kwangdong Freecs,-,N,Y,-
-Evil Geniuses,Immortals,20/02/2022,0.805,0.195,0.504,0.496,-,-,Evil Geniuses,Evil Geniuses,-,N,N,-
-100 Thieves,FlyQuest,20/02/2022,0.737,0.263,1.0,0.0,-,-,100 Thieves,100 Thieves,-,N,N,-
-Cloud9,TSM,20/02/2022,0.857,0.143,0.499,0.501,-,-,Cloud9,TSM,-,Y,N,-
-Dignitas,Golden Guardians,20/02/2022,0.705,0.295,0.0,1.0,-,-,Dignitas,Golden Guardians,-,N,Y,-
-Counter Logic Gaming,Team Liquid,20/02/2022,0.026,0.974,0.0,1.0,-,-,Team Liquid,Team Liquid,-,Y,Y,-
-DWG KIA,KT Rolster,20/02/2022,0.602,0.398,1.0,0.0,-,-,DWG KIA,DWG KIA,-,Y,Y,-
-Nongshim RedForce,T1,20/02/2022,0.155,0.845,0.0,1.0,-,-,T1,T1,-,Y,Y,-
-KT Rolster,Kwangdong Freecs,23/02/2022,0.456,0.544,0.0,1.0,-,-,Kwangdong Freecs,Kwangdong Freecs,-,Y,Y,-
-DWG KIA,T1,23/02/2022,0.374,0.626,0.0,1.0,-,-,T1,T1,-,Y,Y,-
-DRX,Fredit BRION,23/02/2022,0.49,0.51,0.495,0.505,-,-,Fredit BRION,Fredit BRION,-,N,N,-
-Hanwha Life Esports,Liiv SANDBOX,23/02/2022,0.505,0.495,0.466,0.534,-,-,Hanwha Life Esports,Liiv SANDBOX,-,N,Y,-
-Excel Esports,MAD Lions,25/02/2022,0.635,0.365,0.001,0.999,-,-,Excel Esports,MAD Lions,,,,-
-Astralis,Team BDS,25/02/2022,0.25,0.75,0.535,0.465,-,-,Team BDS,Astralis,,,,-
-SK Gaming,Team Vitality,25/02/2022,0.131,0.869,0.001,0.999,-,-,Team Vitality,Team Vitality,,,,-
-Fnatic,Rogue,25/02/2022,0.249,0.751,0.103,0.897,-,-,Rogue,Rogue,,,,-
-G2 Esports,Misfits Gaming,25/02/2022,0.508,0.492,0.999,0.001,-,-,G2 Esports,G2 Esports,,,,-
-Cloud9,Dignitas,25/02/2022,0.321,0.679,0.001,0.999,-,-,Dignitas,Dignitas,,,,-
-Golden Guardians,Team Liquid,25/02/2022,0.313,0.687,0.976,0.024,-,-,Team Liquid,Golden Guardians,,,,-
-100 Thieves,TSM,25/02/2022,0.996,0.004,0.999,0.001,-,-,100 Thieves,100 Thieves,,,,-
-Counter Logic Gaming,Immortals,25/02/2022,0.257,0.743,0.492,0.508,-,-,Immortals,Immortals,,,,-
-Evil Geniuses,FlyQuest,25/02/2022,0.049,0.951,0.506,0.494,-,-,FlyQuest,Evil Geniuses,,,,-
-Gen.G,Nongshim RedForce,25/02/2022,0.921,0.079,0.999,0.001,-,-,Gen.G,Gen.G,,,,-
-DWG KIA,Kwangdong Freecs,25/02/2022,0.674,0.326,0.999,0.001,-,-,DWG KIA,DWG KIA,,,,-
-Fnatic,MAD Lions,26/02/2022,0.712,0.288,0.999,0.001,0.999,0.001,Fnatic,Fnatic,Fnatic,,,
-G2 Esports,Team BDS,26/02/2022,0.815,0.185,0.999,0.001,1.0,0.0,G2 Esports,G2 Esports,G2 Esports,,,
-Excel Esports,Rogue,26/02/2022,0.069,0.931,0.001,0.999,0.0,1.0,Rogue,Rogue,Rogue,,,
-Astralis,SK Gaming,26/02/2022,0.514,0.486,0.491,0.509,0.994,0.006,Astralis,SK Gaming,Astralis,,,
-Misfits Gaming,Team Vitality,26/02/2022,0.6,0.4,0.001,0.999,0.0,1.0,Misfits Gaming,Team Vitality,Team Vitality,,,
-Evil Geniuses,Golden Guardians,26/02/2022,0.512,0.488,0.001,0.999,0.819,0.181,Evil Geniuses,Golden Guardians,Evil Geniuses,,,
-FlyQuest,Immortals,26/02/2022,0.464,0.536,0.001,0.999,1.0,0.0,Immortals,Immortals,FlyQuest,,,
-100 Thieves,Cloud9,26/02/2022,0.627,0.373,0.999,0.001,0.908,0.092,100 Thieves,100 Thieves,100 Thieves,,,
-Counter Logic Gaming,TSM,26/02/2022,0.57,0.43,0.49,0.51,0.531,0.469,Counter Logic Gaming,TSM,Counter Logic Gaming,,,
-Dignitas,Team Liquid,26/02/2022,0.097,0.903,0.001,0.999,0.0,1.0,Team Liquid,Team Liquid,Team Liquid,,,
-Hanwha Life Esports,T1,26/02/2022,0.092,0.908,0.001,0.999,0.0,1.0,T1,T1,T1,,,
-Fredit BRION,KT Rolster,26/02/2022,0.602,0.398,0.494,0.506,0.983,0.017,Fredit BRION,KT Rolster,Fredit BRION,,,
-DRX,Gen.G,27/02/2022,0.142,0.858,0.001,0.999,0.0,1.0,Gen.G,Gen.G,Gen.G,,,
-Liiv SANDBOX,Nongshim RedForce,27/02/2022,0.438,0.562,0.511,0.489,0.006,0.994,Nongshim RedForce,Liiv SANDBOX,Nongshim RedForce,,,
-Team Liquid,TSM,27/02/2022,0.966,0.034,0.999,0.001,0.0,1.0,Team Liquid,Team Liquid,Team Liquid,,,
-Counter Logic Gaming,Evil Geniuses,27/02/2022,0.199,0.801,0.001,0.999,0.953,0.047,Evil Geniuses,Evil Geniuses,Evil Geniuses,,,
-Cloud9,FlyQuest,27/02/2022,0.827,0.173,0.999,0.001,0.054,0.946,Cloud9,Cloud9,Cloud9,,,
-Golden Guardians,Immortals,27/02/2022,0.478,0.522,0.999,0.001,0.641,0.359,Immortals,Golden Guardians,Immortals,,,
-100 Thieves,Dignitas,27/02/2022,0.882,0.118,0.999,0.001,0.0,1.0,100 Thieves,100 Thieves,100 Thieves,,,
-
+Team 1,Team 2,Date,t1_win_tf,t1_win_akkio,t1_win_player,Winner_tf,Winner_akkio,Winner_player,Correct_tf,Correct_akkio,Correct_player
+Astralis,Rogue,11/02/2022,0.024,0,-,Rogue,Rogue,-,N,N,-
+Excel Esports,Team Vitality,11/02/2022,0.44,0,-,Team Vitality,Team Vitality,-,N,N,-
+Misfits Gaming,Team BDS,11/02/2022,0.735,1,-,Misfits Gaming,Misfits Gaming,-,Y,Y,-
+Fnatic,SK Gaming,11/02/2022,0.819,1,-,Fnatic,Fnatic,-,Y,Y,-
+G2 Esports,MAD Lions,11/02/2022,0.649,0,-,G2 Esports,MAD Lions,-,Y,N,-
+Excel Esports,Team BDS,12/02/2022,0.724,1,-,Excel Esports,Excel Esports,-,Y,Y,-
+MAD Lions,SK Gaming,12/02/2022,0.512,1,-,MAD Lions,MAD Lions,-,N,N,-
+Misfits Gaming,Rogue,12/02/2022,0.332,0,-,Rogue,Rogue,-,N,N,-
+Astralis,G2 Esports,12/02/2022,0.293,0,-,G2 Esports,G2 Esports,-,Y,Y,-
+Fnatic,Team Vitality,12/02/2022,0.516,1,-,Fnatic,Fnatic,-,Y,Y,-
+Dignitas,Evil Geniuses,12/02/2022,0.688,1,-,Dignitas,Dignitas,-,N,N,-
+100 Thieves,Immortals,12/02/2022,0.985,1,-,100 Thieves,100 Thieves,-,N,N,-
+Cloud9,Team Liquid,12/02/2022,0.55,0,-,Cloud9,Team Liquid,-,N,Y,-
+Counter Logic Gaming,Golden Guardians,12/02/2022,0.14,0,-,Golden Guardians,Golden Guardians,-,Y,Y,-
+FlyQuest,TSM,12/02/2022,0.912,0.513,-,FlyQuest,FlyQuest,-,Y,Y,-
+Kwangdong Freecs,Nongshim RedForce,12/02/2022,0.276,0,-,Nongshim RedForce,Nongshim RedForce,-,N,N,-
+Fredit BRION,KT Rolster,12/02/2022,0.434,0,-,KT Rolster,KT Rolster,-,Y,Y,-
+Cloud9,Immortals,13/02/2022,0.978,0.48,-,Cloud9,Immortals,-,Y,N,-
+Golden Guardians,TSM,13/02/2022,0.973,1,-,Golden Guardians,Golden Guardians,-,Y,Y,-
+100 Thieves,Evil Geniuses,13/02/2022,0.858,1,-,100 Thieves,100 Thieves,-,Y,Y,-
+FlyQuest,Team Liquid,13/02/2022,0.886,0,-,FlyQuest,Team Liquid,-,N,Y,-
+Counter Logic Gaming,Dignitas,13/02/2022,0.004,0,-,Dignitas,Dignitas,-,Y,Y,-
+Fredit BRION,Liiv SANDBOX,16/02/2022,0.807,0.463,-,Fredit BRION,Liiv SANDBOX,-,N,Y,-
+Gen.G,Nongshim RedForce,16/02/2022,0.771,1,-,Gen.G,Gen.G,-,Y,Y,-
+Hanwha Life Esports,Kwangdong Freecs,17/02/2022,0.43,0,-,Kwangdong Freecs,Kwangdong Freecs,-,Y,Y,-
+DRX,DWG KIA,17/02/2022,0.285,0,-,DWG KIA,DWG KIA,-,N,N,-
+Excel Esports,Misfits Gaming,18/02/2022,0.491,1,-,Misfits Gaming,Excel Esports,-,Y,N,-
+G2 Esports,SK Gaming,18/02/2022,0.994,1,-,G2 Esports,G2 Esports,-,N,N,-
+Astralis,Fnatic,18/02/2022,0.014,0,-,Fnatic,Fnatic,-,N,N,-
+Team BDS,Team Vitality,18/02/2022,0.161,0,-,Team Vitality,Team Vitality,-,Y,Y,-
+MAD Lions,Rogue,18/02/2022,0.039,0,-,Rogue,Rogue,-,Y,Y,-
+KT Rolster,T1,18/02/2022,0.076,0,-,T1,T1,-,Y,Y,-
+Gen.G,Liiv SANDBOX,18/02/2022,0.993,1,-,Gen.G,Gen.G,-,Y,Y,-
+Astralis,Excel Esports,19/02/2022,0.462,0.526,-,Excel Esports,Astralis,-,Y,N,-
+SK Gaming,Team BDS,19/02/2022,0.501,0.645,-,SK Gaming,SK Gaming,-,Y,Y,-
+MAD Lions,Misfits Gaming,19/02/2022,0.267,1,-,Misfits Gaming,MAD Lions,-,Y,N,-
+Rogue,Team Vitality,19/02/2022,0.594,1,-,Rogue,Rogue,-,Y,Y,-
+Fnatic,G2 Esports,19/02/2022,0.497,1,-,G2 Esports,Fnatic,-,N,Y,-
+100 Thieves,Golden Guardians,19/02/2022,0.521,0,-,100 Thieves,Golden Guardians,-,Y,N,-
+Immortals,TSM,19/02/2022,0.5,0.497,-,TSM,TSM,-,Y,Y,-
+Evil Geniuses,Team Liquid,19/02/2022,0.432,0,-,Team Liquid,Team Liquid,-,Y,Y,-
+Dignitas,FlyQuest,19/02/2022,0.501,1,-,Dignitas,Dignitas,-,N,N,-
+Cloud9,Counter Logic Gaming,19/02/2022,0.836,1,-,Cloud9,Cloud9,-,N,N,-
+DRX,Hanwha Life Esports,19/02/2022,0.534,0.503,-,DRX,DRX,-,N,N,-
+Fredit BRION,Kwangdong Freecs,19/02/2022,0.575,0.499,-,Fredit BRION,Kwangdong Freecs,-,N,Y,-
+Evil Geniuses,Immortals,20/02/2022,0.805,0.504,-,Evil Geniuses,Evil Geniuses,-,N,N,-
+100 Thieves,FlyQuest,20/02/2022,0.737,1,-,100 Thieves,100 Thieves,-,N,N,-
+Cloud9,TSM,20/02/2022,0.857,0.499,-,Cloud9,TSM,-,Y,N,-
+Dignitas,Golden Guardians,20/02/2022,0.705,0,-,Dignitas,Golden Guardians,-,N,Y,-
+Counter Logic Gaming,Team Liquid,20/02/2022,0.026,0,-,Team Liquid,Team Liquid,-,Y,Y,-
+DWG KIA,KT Rolster,20/02/2022,0.602,1,-,DWG KIA,DWG KIA,-,Y,Y,-
+Nongshim RedForce,T1,20/02/2022,0.155,0,-,T1,T1,-,Y,Y,-
+KT Rolster,Kwangdong Freecs,23/02/2022,0.456,0,-,Kwangdong Freecs,Kwangdong Freecs,-,Y,Y,-
+DWG KIA,T1,23/02/2022,0.374,0,-,T1,T1,-,Y,Y,-
+DRX,Fredit BRION,23/02/2022,0.49,0.495,-,Fredit BRION,Fredit BRION,-,N,N,-
+Hanwha Life Esports,Liiv SANDBOX,23/02/2022,0.505,0.466,-,Hanwha Life Esports,Liiv SANDBOX,-,N,Y,-
+Excel Esports,MAD Lions,25/02/2022,0.635,0.001,-,Excel Esports,MAD Lions,,,,-
+Astralis,Team BDS,25/02/2022,0.25,0.535,-,Team BDS,Astralis,,,,-
+SK Gaming,Team Vitality,25/02/2022,0.131,0.001,-,Team Vitality,Team Vitality,,,,-
+Fnatic,Rogue,25/02/2022,0.249,0.103,-,Rogue,Rogue,,,,-
+G2 Esports,Misfits Gaming,25/02/2022,0.508,0.999,-,G2 Esports,G2 Esports,,,,-
+Cloud9,Dignitas,25/02/2022,0.321,0.001,-,Dignitas,Dignitas,,,,-
+Golden Guardians,Team Liquid,25/02/2022,0.313,0.976,-,Team Liquid,Golden Guardians,,,,-
+100 Thieves,TSM,25/02/2022,0.996,0.999,-,100 Thieves,100 Thieves,,,,-
+Counter Logic Gaming,Immortals,25/02/2022,0.257,0.492,-,Immortals,Immortals,,,,-
+Evil Geniuses,FlyQuest,25/02/2022,0.049,0.506,-,FlyQuest,Evil Geniuses,,,,-
+Gen.G,Nongshim RedForce,25/02/2022,0.921,0.999,-,Gen.G,Gen.G,,,,-
+DWG KIA,Kwangdong Freecs,25/02/2022,0.674,0.999,-,DWG KIA,DWG KIA,,,,-
+Fnatic,MAD Lions,26/02/2022,0.712,0.999,0.999,Fnatic,Fnatic,Fnatic,,,
+G2 Esports,Team BDS,26/02/2022,0.815,0.999,1,G2 Esports,G2 Esports,G2 Esports,,,
+Excel Esports,Rogue,26/02/2022,0.069,0.001,0,Rogue,Rogue,Rogue,,,
+Astralis,SK Gaming,26/02/2022,0.514,0.491,0.994,Astralis,SK Gaming,Astralis,,,
+Misfits Gaming,Team Vitality,26/02/2022,0.6,0.001,0,Misfits Gaming,Team Vitality,Team Vitality,,,
+Evil Geniuses,Golden Guardians,26/02/2022,0.512,0.001,0.819,Evil Geniuses,Golden Guardians,Evil Geniuses,,,
+FlyQuest,Immortals,26/02/2022,0.464,0.001,1,Immortals,Immortals,FlyQuest,,,
+100 Thieves,Cloud9,26/02/2022,0.627,0.999,0.908,100 Thieves,100 Thieves,100 Thieves,,,
+Counter Logic Gaming,TSM,26/02/2022,0.57,0.49,0.531,Counter Logic Gaming,TSM,Counter Logic Gaming,,,
+Dignitas,Team Liquid,26/02/2022,0.097,0.001,0,Team Liquid,Team Liquid,Team Liquid,,,
+Hanwha Life Esports,T1,26/02/2022,0.092,0.001,0,T1,T1,T1,,,
+Fredit BRION,KT Rolster,26/02/2022,0.602,0.494,0.983,Fredit BRION,KT Rolster,Fredit BRION,,,
+DRX,Gen.G,27/02/2022,0.142,0.001,0,Gen.G,Gen.G,Gen.G,,,
+Liiv SANDBOX,Nongshim RedForce,27/02/2022,0.438,0.511,0.006,Nongshim RedForce,Liiv SANDBOX,Nongshim RedForce,,,
+Team Liquid,TSM,27/02/2022,0.966,0.999,0,Team Liquid,Team Liquid,Team Liquid,,,
+Counter Logic Gaming,Evil Geniuses,27/02/2022,0.199,0.001,0.953,Evil Geniuses,Evil Geniuses,Evil Geniuses,,,
+Cloud9,FlyQuest,27/02/2022,0.827,0.999,0.054,Cloud9,Cloud9,Cloud9,,,
+Golden Guardians,Immortals,27/02/2022,0.478,0.999,0.641,Immortals,Golden Guardians,Immortals,,,
+100 Thieves,Dignitas,27/02/2022,0.882,0.999,0,100 Thieves,100 Thieves,100 Thieves,,,
