@@ -121,9 +121,9 @@ Immortals,Team Liquid,06/03/2022,0.205,0.001,1.0,Team Liquid,Team Liquid,Team Li
 Cloud9,Evil Geniuses,06/03/2022,0.521,0.999,0.988,Cloud9,Cloud9,Cloud9,Y,Y,Y
 Dignitas,FlyQuest,06/03/2022,0.517,0.999,0.012,Dignitas,Dignitas,FlyQuest,N,N,Y
 Golden Guardians,TSM,06/03/2022,0.776,0.999,0.979,Golden Guardians,Golden Guardians,Golden Guardians,N,N,N
-DRX,Nongshim RedForce,09/03/2022,0.711,0.999,0.527,DRX,DRX,Nongshim RedForce,,,
-DWG KIA,Gen.G,09/03/2022,0.443,0.001,0.867,Gen.G,Gen.G,DWG KIA,,,
-Hanwha Life Esports,KT Rolster,10/03/2022,0.459,0.488,0.999,KT Rolster,KT Rolster,KT Rolster,,,
-Fredit BRION,Liiv SANDBOX,10/03/2022,0.578,0.499,0.0,Fredit BRION,Liiv SANDBOX,Fredit BRION,,,
-Kwangdong Freecs,T1,11/03/2022,0.172,0.001,1.0,T1,T1,T1,,,
-DWG KIA,Nongshim RedForce,11/03/2022,0.821,0.999,0.0,DWG KIA,DWG KIA,DWG KIA,,,
+DRX,Nongshim RedForce,09/03/2022,0.711,0.999,0.527,DRX,DRX,Nongshim RedForce,Y,Y,N
+DWG KIA,Gen.G,09/03/2022,0.443,0.001,0.867,Gen.G,Gen.G,DWG KIA,Y,Y,N
+Hanwha Life Esports,KT Rolster,10/03/2022,0.459,0.488,0.999,KT Rolster,KT Rolster,KT Rolster,Y,Y,Y
+Fredit BRION,Liiv SANDBOX,10/03/2022,0.578,0.499,0.0,Fredit BRION,Liiv SANDBOX,Fredit BRION,Y,N,Y
+Kwangdong Freecs,T1,11/03/2022,0.172,0.001,1.0,T1,T1,T1,Y,Y,Y
+DWG KIA,Nongshim RedForce,11/03/2022,0.821,0.999,0.0,DWG KIA,DWG KIA,DWG KIA,Y,Y,Y
