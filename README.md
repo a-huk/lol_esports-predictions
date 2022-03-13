@@ -2,8 +2,8 @@
 ****What is this?****<br>
 This is a side-project of mine to attempt to predict professional League of Legends games. [Here](https://github.com/a-huk/lol_esports-predictions/blob/main/results.csv) are the predictions.
 <br><br>****What is the accuracy?****<br>
-Current accuracy: -tflearn: 68.75% (88/128) -akkio: 64.84% (83/128) -player: 75.0% (45/60)
-<br>As an ensemble: 81.67% (49/60)
+Current accuracy: -tflearn: 69.63% (94/135) -akkio: 65.93% (89/135) -player: 76.12% (51/67)
+<br>As an ensemble: 82.09% (55/67)
 <br><br>****Thanks****<br>
 I could not do this project on my own. So here are people/organisations that I would like to thank and suggest that you check out their work.
 First, thanks to [Oracle's Elixir](https://oracleselixir.com/) for the up-to-date and free data available on their website, nobody else has such data available like they do.
