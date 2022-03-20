@@ -145,17 +145,17 @@ Fredit BRION,Gen.G,16/03/2022,0.145,0.001,0.0,Gen.G,Gen.G,Gen.G,Y,Y,Y
 KT Rolster,Nongshim RedForce,16/03/2022,0.73,0.512,1.0,KT Rolster,KT Rolster,KT Rolster,Y,Y,Y
 DRX,DWG KIA,17/03/2022,0.339,0.001,1.0,DWG KIA,DWG KIA,DWG KIA,Y,Y,Y 
 Hanwha Life Esports,Kwangdong Freecs,17/03/2022,0.259,0.487,0.0,Kwangdong Freecs,Kwangdong Freecs,Kwangdong Freecs,Y,Y,Y
-Liiv SANDBOX,T1,18/03/2022,0.005,0.001,0.0,T1,T1,T1,,,
-Gen.G,KT Rolster,18/03/2022,0.818,0.999,0.0,Gen.G,Gen.G,KT Rolster,,,
-Hanwha Life Esports,Nongshim RedForce,19/03/2022,0.523,0.5,0.007,Hanwha Life Esports,Nongshim RedForce,Nongshim RedForce,,,
-DWG KIA,Fredit BRION,19/03/2022,0.752,1.0,1.0,DWG KIA,DWG KIA,DWG KIA,,,
-100 Thieves,Immortals,19/03/2022,0.857,1.0,1.0,100 Thieves,100 Thieves,100 Thieves,,,
-Counter Logic Gaming,Team Liquid,19/03/2022,0.117,0.0,0.0,Team Liquid,Team Liquid,Team Liquid,,,
-Cloud9,TSM,19/03/2022,0.973,1.0,1.0,Cloud9,Cloud9,Cloud9,,,
-Dignitas,Evil Geniuses,19/03/2022,0.559,1.0,0.381,Dignitas,Dignitas,Evil Geniuses,,,
-FlyQuest,Golden Guardians,19/03/2022,0.576,0.0,0.979,FlyQuest,Golden Guardians,FlyQuest,,,
-Kwangdong Freecs,Liiv SANDBOX,20/03/2022,0.821,0.5,0.0,Kwangdong Freecs,Liiv SANDBOX,Kwangdong Freecs,,,
-DRX,T1,20/03/2022,0.122,0.0,0.0,T1,T1,T1,,,
+Liiv SANDBOX,T1,18/03/2022,0.005,0.001,0.0,T1,T1,T1,Y,Y,Y
+Gen.G,KT Rolster,18/03/2022,0.818,0.999,0.0,Gen.G,Gen.G,KT Rolster,Y,Y,N
+Hanwha Life Esports,Nongshim RedForce,19/03/2022,0.523,0.5,0.007,Hanwha Life Esports,Nongshim RedForce,Nongshim RedForce,N,Y,Y
+DWG KIA,Fredit BRION,19/03/2022,0.752,1.0,1.0,DWG KIA,DWG KIA,DWG KIA,N,N,N
+100 Thieves,Immortals,19/03/2022,0.857,1.0,1.0,100 Thieves,100 Thieves,100 Thieves,Y,Y,Y
+Counter Logic Gaming,Team Liquid,19/03/2022,0.117,0.0,0.0,Team Liquid,Team Liquid,Team Liquid,Y,Y,Y
+Cloud9,TSM,19/03/2022,0.973,1.0,1.0,Cloud9,Cloud9,Cloud9,N,N,N
+Dignitas,Evil Geniuses,19/03/2022,0.559,1.0,0.381,Dignitas,Dignitas,Evil Geniuses,N,N,Y
+FlyQuest,Golden Guardians,19/03/2022,0.576,0.0,0.979,FlyQuest,Golden Guardians,FlyQuest,N,Y,N
+Kwangdong Freecs,Liiv SANDBOX,20/03/2022,0.821,0.5,0.0,Kwangdong Freecs,Liiv SANDBOX,Kwangdong Freecs,Y,N,Y
+DRX,T1,20/03/2022,0.122,0.0,0.0,T1,T1,T1,Y,Y,Y
 100 Thieves,Evil Geniuses,20/03/2022,0.626,1.0,0.991,100 Thieves,100 Thieves,100 Thieves,,,
 Dignitas,Golden Guardians,20/03/2022,0.66,0.0,0.592,Dignitas,Golden Guardians,Dignitas,,,
 FlyQuest,Team Liquid,20/03/2022,0.094,0.0,0.018,Team Liquid,Team Liquid,Team Liquid,,,
