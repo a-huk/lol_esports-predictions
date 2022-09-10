@@ -4,3 +4,7 @@
 1662786112823	geckodriver	INFO	Listening on 127.0.0.1:32775
 1662786114766	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileZ7ZPkG"
 *** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+1662786214388	Marionette	INFO	Marionette enabled
+1662786214425	Marionette	INFO	Listening on port 44391
