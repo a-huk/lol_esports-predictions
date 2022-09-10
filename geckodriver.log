@@ -1,3 +1,6 @@
 1662785430599	geckodriver	INFO	Listening on 127.0.0.1:52009
 1662785432743	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileMOXFMr"
 *** You are running in headless mode.
+1662786112823	geckodriver	INFO	Listening on 127.0.0.1:32775
+1662786114766	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileZ7ZPkG"
+*** You are running in headless mode.
