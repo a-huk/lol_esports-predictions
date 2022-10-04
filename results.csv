@@ -375,10 +375,13 @@ Isurus,Royal Never Give Up,01/10/2022,0.00364,0.0001,0.00387,Royal Never Give Up
 Beyond Gaming,Chiefs Esports Club,01/10/2022,0.69303,0.10262,0.91325,Beyond Gaming,Chiefs Esports Club,Beyond Gaming,Y,N,Y
 İstanbul Wildcats,Royal Never Give Up,01/10/2022,0.02072,0.0001,0.23063,Royal Never Give Up,Royal Never Give Up,Royal Never Give Up,Y,Y,Y
 DRX,Isurus,01/10/2022,0.99986,0.9999,0.99996,DRX,DRX,DRX,Y,Y,Y
-Beyond Gaming,Fnatic,02/10/2022,0.34333,0.0001,0.26917,Fnatic,Fnatic,Fnatic,,,
-Chiefs Esports Club,LOUD,02/10/2022,0.34215,0.89732,0.00857,LOUD,Chiefs Esports Club,LOUD,,,
-DetonatioN FocusMe,Evil Geniuses,02/10/2022,0.29231,0.77477,0.43674,Evil Geniuses,DetonatioN FocusMe,Evil Geniuses,,,
-İstanbul Wildcats,Isurus,02/10/2022,0.5,0.37026,0.89222,İstanbul Wildcats,Isurus,İstanbul Wildcats,,,
-DRX,MAD Lions,02/10/2022,0.50092,0.5448,0.86922,DRX,DRX,DRX,,,
-Royal Never Give Up,Saigon Buffalo,02/10/2022,0.502,0.9999,0.98636,Royal Never Give Up,Royal Never Give Up,Royal Never Give Up,,,
-MAD Lions,Saigon Buffalo,03/10/2022,0.81569,0.9999,0.98955,MAD Lions,MAD Lions,MAD Lions,,,
+Beyond Gaming,Fnatic,02/10/2022,0.34333,0.0001,0.26917,Fnatic,Fnatic,Fnatic,Y,Y,Y
+Chiefs Esports Club,LOUD,02/10/2022,0.34215,0.89732,0.00857,LOUD,Chiefs Esports Club,LOUD,Y,N,Y
+DetonatioN FocusMe,Evil Geniuses,02/10/2022,0.29231,0.77477,0.43674,Evil Geniuses,DetonatioN FocusMe,Evil Geniuses,N,Y,N
+İstanbul Wildcats,Isurus,02/10/2022,0.5,0.37026,0.89222,İstanbul Wildcats,Isurus,İstanbul Wildcats,N,Y,N
+DRX,MAD Lions,02/10/2022,0.50092,0.5448,0.86922,DRX,DRX,DRX,Y,Y,Y
+Royal Never Give Up,Saigon Buffalo,02/10/2022,0.502,0.9999,0.98636,Royal Never Give Up,Royal Never Give Up,Royal Never Give Up,Y,Y,Y
+MAD Lions,Saigon Buffalo,03/10/2022,0.81569,0.9999,0.98955,MAD Lions,MAD Lions,MAD Lions,Y,Y,Y
+Evil Geniuses,MAD Lions,04/10/2022,0.50438,0.16565,0.4955,Evil Geniuses,MAD Lions,MAD Lions,,,
+DetonatioN FocusMe,Royal Never Give Up,04/10/2022,0.49992,0.67471,0.55734,Royal Never Give Up,DetonatioN FocusMe,DetonatioN FocusMe,,,
+
