@@ -20,7 +20,10 @@ def line2final(line, line2):
     firstblood = line[35]
     firsttower = line[61]
     first3towers = line[65]
-    turret_plates_per_game = line[66]
+    if line[66] == "":
+        turret_plates_per_game = 0
+    else:
+        turret_plates_per_game = line[66] #turretplates
     harold_control_rate = 0
     if line[56] != "0.0":
         harold_control_rate = float(
@@ -41,10 +44,10 @@ def line2final(line, line2):
         baron_control_rate = float(
             line[59]) / (float(line[59]) + float(line2[59]))
     firstbaron = line[58]
-    cs_share = float(line[89]) / (float(line[89]) + float(line2[89]))
-    jng_share = float(line[90]) / (float(line[90]) + float(line2[90]))
+    cs_share = (float(line[89]) + float(line[90])) / ((float(line[90]) + float(line[90])) + (float(line2[89]) + float(line2[90]))) #total cs
+    jng_share = float(line[90]) / (float(line[90]) + float(line2[90]))#monsterkills
     wards_per_minute = line[76]
-    control_wards_purchased_per_minute = float(line[79]) / game_length
+    control_wards_purchased_per_minute = float(line[79]) / game_length #controlwardsbought
     wards_cleared_per_minute = line[78]
     return [
         kills_per_game, deaths_per_game, game_length, ckpm, gpr, gspd, gd15,
@@ -55,21 +58,22 @@ def line2final(line, line2):
         wards_cleared_per_minute
     ]
 
-
 #Download and save the latest data
+print("Preparing data")
 oe_data = oe.download_data()
 oe_data.to_csv("all_data.csv")
-
 #Only append team data from initial csv as opposed to player data
 with open('all_data.csv', newline='') as f:
     reader = csv.reader(f)
     starting_data = list(reader)
 only_team_data = []
+
+
 for line in starting_data:
     if line[13] == "team":
-        #Additional integrity checking
-        if line[89] != "":  #Remove teams with empty cs_share
-            only_team_data.append(line)
+        if line[56] != "":
+            if line[115] != "":
+                only_team_data.append(line)
 
 #Add two teams data and write out the resulting amtches and results in all_out.csv
 ready_all_data = []
@@ -83,7 +87,6 @@ for index, line in enumerate(only_team_data):
     else:
         first_part = True
 
-os.remove("all_data.csv")
 
 with open('all_out.csv', 'w', newline='') as csvfile:
     writer = csv.writer(csvfile)

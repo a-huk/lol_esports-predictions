@@ -13,6 +13,9 @@ returns the prediction info
 
 
 def predict(matches):
+    print(matches)
+    print(len(matches))
+    print("predicting teams")
     # Training/validation data loaded
     data, labels = load_csv('all_out.csv',
                             categorical_labels=True,
@@ -41,6 +44,7 @@ def predict(matches):
     for match in matches:
         left_win = match[0]
         right_win = match[1]
+        print(match)
         team1 = match[2]
         team2 = match[3]
         print(" ")
@@ -63,3 +67,4 @@ def predict(matches):
             print("Will never happen, but it will be a draw")
         prediction_data.append([match[2], t1_win, match[3], t2_win])
     return prediction_data
+

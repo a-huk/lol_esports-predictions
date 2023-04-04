@@ -1,10 +1,3 @@
-'''
-This file was entirely written by Matthew Rittinghouse aka TheProjektZero.
-The file is a repost of the original repository: https://github.com/MRittinghouse/ProjektZero-LoL-Model
-File url: https://github.com/MRittinghouse/ProjektZero-LoL-Model/blob/main/src/oracles_elixir.py
-All credit goes to him, go check out his work
-'''
-
 """
 Oracle's Elixir
 
@@ -14,6 +7,9 @@ for use in their own scripts and analytics.
 
 Please visit and support www.oracleselixir.com
 Tim provides an invaluable service to the League community.
+
+
+UPDATE: Modified by Adam Huk to work with the newly hosted files on Google Drive.
 """
 # Housekeeping
 import datetime as dt
@@ -24,6 +20,9 @@ import pandas as pd
 from pathlib import Path
 import requests
 from typing import Optional, Union
+import csv
+import gdown
+
 
 
 # Utility/Helper Function Definitions
@@ -110,8 +109,7 @@ def download_data(years: Optional[Union[list, str, int]] = [dt.date.today().year
     yesterday = yesterday.strftime("%Y%m%d")
 
     # Other Variables
-    url = ("https://oracleselixir-downloadable-match-data."
-           "s3-us-west-2.amazonaws.com/")
+    url = "https://drive.google.com/file/d/1XXk2LO0CsNADBB1LRGOV5rUpyZdEZ8s2/view?usp=share_link"
     oe_data = pd.DataFrame()
 
     # Conditional Handling For Years
@@ -131,25 +129,30 @@ def download_data(years: Optional[Union[list, str, int]] = [dt.date.today().year
                     os.remove(directory.joinpath(f))
             try:
                 # Try To Grab File For Current Date
-                filepath = f"{url}{file}{today}.csv"
-
-                r = requests.get(filepath, allow_redirects=True)
-                data = r.content.decode("utf8")
-                data = pd.read_csv(io.StringIO(data), low_memory=False)
-                assert len(data) > 9
-                data.to_csv(directory.joinpath(f"{file}{today}.csv"), index=False)
+                filepath = f"{file}{today}.csv"
+                
+                #r = requests.get(filepath, allow_redirects=True)
+                #data = r.content.decode("utf8")
+                #data = pd.read_csv(io.StringIO(data), low_memory=False)
+                #assert len(data) > 9
+                #data.to_csv(directory.joinpath(f"{file}{today}.csv"), index=False)
+                print(filepath)
+                gdown.download(url=url, output=filepath, quiet=False, fuzzy=True)
                 print(f"DOWNLOADED: {file}{today}.csv")
+
             except Exception as e:
                 # Grab Yesterday's Data If Today's Does Not Exist
-                filepath = f"{url}{file}{yesterday}.csv"
+                filepath = f"{file}{yesterday}.csv"
 
-                r = requests.get(filepath, allow_redirects=True)
-                data = r.content.decode("utf8")
-                data = pd.read_csv(io.StringIO(data), low_memory=False)
-                assert len(data) > 9
-                data.to_csv(directory.joinpath(f"{file}{yesterday}.csv"), index=False)
-                print(e)
+                #r = requests.get(filepath, allow_redirects=True)
+                #data = r.content.decode("utf8")
+                #data = pd.read_csv(io.StringIO(data), low_memory=False)
+                #assert len(data) > 9
+                #data.to_csv(directory.joinpath(f"{file}{yesterday}.csv"), index=False)
+                #print(e)
+                gdown.download(url=url, output=filepath, quiet=False, fuzzy=True)
                 print(f"DOWNLOADED: {file}{yesterday}.csv")
+            data = pd.read_csv(directory.joinpath(filepath), low_memory=False)
         else:
             # Grab Local Data If It Exists
             data = pd.read_csv(directory.joinpath(f"{file}{today}.csv"), low_memory=False)

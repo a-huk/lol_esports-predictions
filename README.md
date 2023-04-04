@@ -41,3 +41,4 @@ I could cache much more. Also I could save the model once it is trained and not 
 <br><br>****Any plans for the future?****<br>
 Like MRittinghouse, I would like to create a few more models, especially based on players and combine them into an ensemble, as they are proven to give better accuracy with competent models.
 
+<br><br> This is an updated version, for older ones please look at ther other branches
