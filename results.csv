@@ -570,29 +570,29 @@ Astralis,SK Gaming,13/03/2023,0.46969,0.0523,0.36268,SK Gaming,SK Gaming,SK Gami
 KOI,MAD Lions,13/03/2023,0.50049,0.39446,0.99436,KOI,MAD Lions,KOI,N,Y,N
 Excel Esports,G2 Esports,13/03/2023,0.44127,0.91416,0.09247,G2 Esports,Excel Esports,G2 Esports,Y,Y,Y
 Fnatic,Team Vitality,13/03/2023,0.02251,0.94553,0.00111,Team Vitality,Fnatic,Team Vitality,Y,N,Y
-DRX,Kwangdong Freecs,14/03/2023,0.49988,0.46435,0.49747,Kwangdong Freecs,Kwangdong Freecs,Kwangdong Freecs,,,
-BRION,Liiv SANDBOX,14/03/2023,0.49959,0.46435,0.49916,Liiv SANDBOX,Liiv SANDBOX,Liiv SANDBOX,,,
-Cloud9,FlyQuest,15/03/2023,0.60214,0.52815,0.80104,Cloud9,Cloud9,Cloud9,,,
-Dignitas,Team Liquid,15/03/2023,0.06134,0.9477,0.0,Team Liquid,Dignitas,Team Liquid,,,
-100 Thieves,TSM,15/03/2023,0.64815,0.06787,0.71768,100 Thieves,TSM,100 Thieves,,,
-Evil Geniuses,Immortals,15/03/2023,0.97311,0.05447,1.0,Evil Geniuses,Immortals,Evil Geniuses,,,
-Counter Logic Gaming,Golden Guardians,15/03/2023,0.1774,0.9477,0.00489,Golden Guardians,Counter Logic Gaming,Golden Guardians,,,
-Dplus KIA,T1,16/03/2023,0.381,0.5,0.27083,T1,T1,T1,,,
-Gen.G,Hanwha Life Esports,16/03/2023,0.90409,0.0523,1.0,Gen.G,Hanwha Life Esports,Gen.G,,,
-KT Rolster,Kwangdong Freecs,16/03/2023,0.86942,0.05734,1.0,KT Rolster,Kwangdong Freecs,KT Rolster,,,
-BRION,Nongshim RedForce,16/03/2023,0.52091,0.53565,0.68077,BRION,BRION,BRION,,,
-100 Thieves,Evil Geniuses,16/03/2023,0.33765,0.9477,0.01081,Evil Geniuses,100 Thieves,Evil Geniuses,,,
-FlyQuest,Golden Guardians,16/03/2023,0.62144,0.5,0.69391,FlyQuest,Golden Guardians,FlyQuest,,,
-Counter Logic Gaming,Team Liquid,16/03/2023,0.47116,0.9477,0.4336,Team Liquid,Counter Logic Gaming,Team Liquid,,,
-Cloud9,Immortals,16/03/2023,0.96534,0.0417,1.0,Cloud9,Immortals,Cloud9,,,
-Dignitas,TSM,16/03/2023,0.37026,0.46435,0.0,TSM,TSM,TSM,,,
-Dplus KIA,Gen.G,23/06/2023,0.96681,0.5,0.499,Dplus KIA,Gen.G,Gen.G,,,
-KT Rolster,T1,23/06/2023,0.54208,0.5,0.37793,KT Rolster,T1,T1,,,
-Golden Guardians,TSM,23/06/2023,0.00014,0.5,0.85114,TSM,TSM,Golden Guardians,,,
-100 Thieves,Immortals,23/06/2023,0.00108,0.49993,0.27454,Immortals,Immortals,Immortals,,,
-Evil Geniuses,Team Liquid,23/06/2023,0.96148,0.5,0.26543,Evil Geniuses,Team Liquid,Team Liquid,,,
-Dignitas,FlyQuest,23/06/2023,0.50576,0.50007,0.83499,Dignitas,Dignitas,Dignitas,,,
-Cloud9,NRG,23/06/2023,0.00123,0.5,0.4928,NRG,NRG,NRG,,,
+DRX,Kwangdong Freecs,14/03/2023,0.49988,0.46435,0.49747,Kwangdong Freecs,Kwangdong Freecs,Kwangdong Freecs,Y,Y,Y
+BRION,Liiv SANDBOX,14/03/2023,0.49959,0.46435,0.49916,Liiv SANDBOX,Liiv SANDBOX,Liiv SANDBOX,Y,Y,Y
+Cloud9,FlyQuest,15/03/2023,0.60214,0.52815,0.80104,Cloud9,Cloud9,Cloud9,Y,Y,Y
+Dignitas,Team Liquid,15/03/2023,0.06134,0.9477,0.0,Team Liquid,Dignitas,Team Liquid,Y,N,Y
+100 Thieves,TSM,15/03/2023,0.64815,0.06787,0.71768,100 Thieves,TSM,100 Thieves,Y,N,Y
+Evil Geniuses,Immortals,15/03/2023,0.97311,0.05447,1.0,Evil Geniuses,Immortals,Evil Geniuses,Y,Y,Y
+Counter Logic Gaming,Golden Guardians,15/03/2023,0.1774,0.9477,0.00489,Golden Guardians,Counter Logic Gaming,Golden Guardians,N,Y,N
+Dplus KIA,T1,16/03/2023,0.381,0.5,0.27083,T1,T1,T1,Y,Y,Y
+Gen.G,Hanwha Life Esports,16/03/2023,0.90409,0.0523,1.0,Gen.G,Hanwha Life Esports,Gen.G,Y,N,Y
+KT Rolster,Kwangdong Freecs,16/03/2023,0.86942,0.05734,1.0,KT Rolster,Kwangdong Freecs,KT Rolster,Y,N,Y
+BRION,Nongshim RedForce,16/03/2023,0.52091,0.53565,0.68077,BRION,BRION,BRION,N,N,N
+100 Thieves,Evil Geniuses,16/03/2023,0.33765,0.9477,0.01081,Evil Geniuses,100 Thieves,Evil Geniuses,N,Y,N
+FlyQuest,Golden Guardians,16/03/2023,0.62144,0.5,0.69391,FlyQuest,Golden Guardians,FlyQuest,Y,N,Y
+Counter Logic Gaming,Team Liquid,16/03/2023,0.47116,0.9477,0.4336,Team Liquid,Counter Logic Gaming,Team Liquid,N,Y,N
+Cloud9,Immortals,16/03/2023,0.96534,0.0417,1.0,Cloud9,Immortals,Cloud9,Y,N,Y
+Dignitas,TSM,16/03/2023,0.37026,0.46435,0.0,TSM,TSM,TSM,Y,Y,Y
+Dplus KIA,Gen.G,23/06/2023,0.96681,0.5,0.499,Dplus KIA,Gen.G,Gen.G,N,Y,Y
+KT Rolster,T1,23/06/2023,0.54208,0.5,0.37793,KT Rolster,T1,T1,Y,N,N
+Golden Guardians,TSM,23/06/2023,0.00014,0.5,0.85114,TSM,TSM,Golden Guardians,N,N,Y
+100 Thieves,Immortals,23/06/2023,0.00108,0.49993,0.27454,Immortals,Immortals,Immortals,N,N,N
+Evil Geniuses,Team Liquid,23/06/2023,0.96148,0.5,0.26543,Evil Geniuses,Team Liquid,Team Liquid,Y,N,N
+Dignitas,FlyQuest,23/06/2023,0.50576,0.50007,0.83499,Dignitas,Dignitas,Dignitas,Y,Y,Y
+Cloud9,NRG,23/06/2023,0.00123,0.5,0.4928,NRG,NRG,NRG,Y,Y,Y
 SK Gaming,Team BDS,24/06/2023,0.18784,0.5,0.65828,Team BDS,Team BDS,SK Gaming,,,
 Excel Esports,Team Heretics,24/06/2023,0.99041,0.5,0.38052,Excel Esports,Team Heretics,Team Heretics,,,
 Fnatic,KOI,24/06/2023,0.99201,0.5,0.46723,Fnatic,KOI,KOI,,,
